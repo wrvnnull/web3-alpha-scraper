@@ -1,0 +1,4361 @@
+{
+  "test_xyz_001": {
+    "first_seen": "2026-03-16T17:48:07.428244"
+  },
+  "airdrop_2186954671": {
+    "first_seen": "2026-03-16T18:09:11.132385"
+  },
+  "airdrop_3939495391": {
+    "first_seen": "2026-03-16T18:09:11.133244"
+  },
+  "airdrop_2767949806": {
+    "first_seen": "2026-03-16T18:09:11.133942"
+  },
+  "airdrop_359989004": {
+    "first_seen": "2026-03-16T18:09:11.134763"
+  },
+  "airdrop_2033221931": {
+    "first_seen": "2026-03-16T18:09:11.135490"
+  },
+  "airdrop_2497007219": {
+    "first_seen": "2026-03-16T18:09:11.136479"
+  },
+  "airdrop_3265524454": {
+    "first_seen": "2026-03-16T18:09:11.137257"
+  },
+  "airdrop_3906560266": {
+    "first_seen": "2026-03-16T18:09:11.137801"
+  },
+  "airdrop_365554742": {
+    "first_seen": "2026-03-16T18:09:11.138352"
+  },
+  "airdrop_3291101863": {
+    "first_seen": "2026-03-16T18:09:11.138805"
+  },
+  "airdrop_4977879": {
+    "first_seen": "2026-03-16T18:09:11.139355"
+  },
+  "airdrop_141894007": {
+    "first_seen": "2026-03-16T18:09:11.139902"
+  },
+  "airdrop_2784897883": {
+    "first_seen": "2026-03-16T18:09:11.140446"
+  },
+  "airdrop_3200176381": {
+    "first_seen": "2026-03-16T18:09:11.141201"
+  },
+  "defillama_lido": {
+    "first_seen": "2026-03-16T18:09:11.676234"
+  },
+  "defillama_ssv-network": {
+    "first_seen": "2026-03-16T18:09:11.676772"
+  },
+  "defillama_wbtc": {
+    "first_seen": "2026-03-16T18:09:11.677223"
+  },
+  "defillama_sky-lending": {
+    "first_seen": "2026-03-16T18:09:11.677650"
+  },
+  "defillama_arbitrum-bridge": {
+    "first_seen": "2026-03-16T18:09:11.678107"
+  },
+  "defillama_justlend": {
+    "first_seen": "2026-03-16T18:09:11.678548"
+  },
+  "defillama_base-bridge": {
+    "first_seen": "2026-03-16T18:09:11.678989"
+  },
+  "defillama_maple": {
+    "first_seen": "2026-03-16T18:09:11.679461"
+  },
+  "defillama_polygon-bridge-&-staking": {
+    "first_seen": "2026-03-16T18:09:11.679896"
+  },
+  "defillama_pendle": {
+    "first_seen": "2026-03-16T18:09:11.680368"
+  },
+  "defillama_ondo-yield-assets": {
+    "first_seen": "2026-03-16T18:09:11.680820"
+  },
+  "defillama_curve-dex": {
+    "first_seen": "2026-03-16T18:09:11.681294"
+  },
+  "defillama_pancakeswap-amm": {
+    "first_seen": "2026-03-16T18:09:11.681792"
+  },
+  "defillama_venus-core-pool": {
+    "first_seen": "2026-03-16T18:09:11.682390"
+  },
+  "defillama_raydium-amm": {
+    "first_seen": "2026-03-16T18:09:11.682871"
+  },
+  "defillama_stakewise-v2": {
+    "first_seen": "2026-03-16T18:09:11.683389"
+  },
+  "defillama_wisdomtree": {
+    "first_seen": "2026-03-16T18:09:11.683913"
+  },
+  "defillama_convex-finance": {
+    "first_seen": "2026-03-16T18:09:11.684942"
+  },
+  "defillama_tornado-cash": {
+    "first_seen": "2026-03-16T18:09:11.685852"
+  },
+  "defillama_optimism-bridge": {
+    "first_seen": "2026-03-16T18:09:11.686428"
+  },
+  "defillama_quickswap-dex": {
+    "first_seen": "2026-03-16T18:09:11.687031"
+  },
+  "defillama_linea-bridge": {
+    "first_seen": "2026-03-16T18:09:11.687525"
+  },
+  "defillama_world-chain": {
+    "first_seen": "2026-03-16T18:09:11.688360"
+  },
+  "defillama_lightning-network": {
+    "first_seen": "2026-03-16T18:09:11.689192"
+  },
+  "defillama_xdai-stake-bridge": {
+    "first_seen": "2026-03-16T18:09:11.689910"
+  },
+  "defillama_defi-saver": {
+    "first_seen": "2026-03-16T18:09:11.690436"
+  },
+  "defillama_marinade-liquid-staking": {
+    "first_seen": "2026-03-16T18:09:11.690933"
+  },
+  "defillama_yearn-finance": {
+    "first_seen": "2026-03-16T18:09:11.691462"
+  },
+  "defillama_exod": {
+    "first_seen": "2026-03-16T18:09:11.692059"
+  },
+  "defillama_mantle-bridge": {
+    "first_seen": "2026-03-16T18:09:11.692657"
+  },
+  "defillama_orca-dex": {
+    "first_seen": "2026-03-16T18:09:11.693323"
+  },
+  "defillama_starknet-bridge": {
+    "first_seen": "2026-03-16T18:09:11.693965"
+  },
+  "defillama_connext": {
+    "first_seen": "2026-03-16T18:09:11.695314"
+  },
+  "defillama_noble": {
+    "first_seen": "2026-03-16T18:09:11.695881"
+  },
+  "defillama_cooler-loans": {
+    "first_seen": "2026-03-16T18:09:11.696463"
+  },
+  "defillama_venus-flux": {
+    "first_seen": "2026-03-16T18:09:11.697058"
+  },
+  "defillama_fluid-lite": {
+    "first_seen": "2026-03-16T18:09:11.697645"
+  },
+  "defillama_fraxtal": {
+    "first_seen": "2026-03-16T18:09:11.698367"
+  },
+  "defillama_benqi-lending": {
+    "first_seen": "2026-03-16T18:09:11.699842"
+  },
+  "defillama_stake-dao": {
+    "first_seen": "2026-03-16T18:09:11.700449"
+  },
+  "defillama_beefy": {
+    "first_seen": "2026-03-16T18:09:11.700992"
+  },
+  "defillama_zksync-era-txbridge": {
+    "first_seen": "2026-03-16T18:09:11.701713"
+  },
+  "defillama_compound-v2": {
+    "first_seen": "2026-03-16T18:09:11.702352"
+  },
+  "defillama_aave-v2": {
+    "first_seen": "2026-03-16T18:09:11.703087"
+  },
+  "defillama_avalanche-core-bridge": {
+    "first_seen": "2026-03-16T18:09:11.703795"
+  },
+  "defillama_polygon-zkevm-bridge": {
+    "first_seen": "2026-03-16T18:09:11.705513"
+  },
+  "defillama_raac": {
+    "first_seen": "2026-03-16T18:09:11.706132"
+  },
+  "defillama_dydx-v4": {
+    "first_seen": "2026-03-16T18:09:11.706723"
+  },
+  "defillama_reserve-protocol": {
+    "first_seen": "2026-03-16T18:09:11.707363"
+  },
+  "defillama_ao-bridge": {
+    "first_seen": "2026-03-16T18:09:11.707995"
+  },
+  "defillama_hyperlane": {
+    "first_seen": "2026-03-16T18:09:11.708602"
+  },
+  "defillama_homora-v2": {
+    "first_seen": "2026-03-16T18:09:11.709620"
+  },
+  "defillama_enzyme-finance": {
+    "first_seen": "2026-03-16T18:09:11.710802"
+  },
+  "defillama_save": {
+    "first_seen": "2026-03-16T18:09:11.711429"
+  },
+  "defillama_blast-bridge": {
+    "first_seen": "2026-03-16T18:09:11.712056"
+  },
+  "defillama_autofinance": {
+    "first_seen": "2026-03-16T18:09:11.712677"
+  },
+  "defillama_scroll-bridge": {
+    "first_seen": "2026-03-16T18:09:11.713355"
+  },
+  "defillama_thorchain-dex": {
+    "first_seen": "2026-03-16T18:09:11.713983"
+  },
+  "defillama_zest-v2": {
+    "first_seen": "2026-03-16T18:09:11.714773"
+  },
+  "defillama_standx-bridge": {
+    "first_seen": "2026-03-16T18:09:11.715598"
+  },
+  "defillama_frax": {
+    "first_seen": "2026-03-16T18:09:11.716484"
+  },
+  "defillama_pulsechain": {
+    "first_seen": "2026-03-16T18:09:11.717378"
+  },
+  "defillama_pulsechain-bridge": {
+    "first_seen": "2026-03-16T18:09:11.718246"
+  },
+  "defillama_kava-mint": {
+    "first_seen": "2026-03-16T18:09:11.718936"
+  },
+  "defillama_balancer-v2": {
+    "first_seen": "2026-03-16T18:09:11.719587"
+  },
+  "defillama_multichain": {
+    "first_seen": "2026-03-16T18:09:11.720401"
+  },
+  "defillama_sushiswap": {
+    "first_seen": "2026-03-16T18:09:11.721236"
+  },
+  "defillama_decibel": {
+    "first_seen": "2026-03-16T18:09:11.722489"
+  },
+  "defillama_lisk-bridge": {
+    "first_seen": "2026-03-16T18:09:11.723686"
+  },
+  "defillama_moneyonchain": {
+    "first_seen": "2026-03-16T18:09:11.724415"
+  },
+  "defillama_bigone": {
+    "first_seen": "2026-03-16T18:09:11.725234"
+  },
+  "defillama_meta-pool-near": {
+    "first_seen": "2026-03-16T18:09:11.726542"
+  },
+  "defillama_vesper": {
+    "first_seen": "2026-03-16T18:09:11.727307"
+  },
+  "defillama_abstract": {
+    "first_seen": "2026-03-16T18:09:11.727952"
+  },
+  "defillama_idex-v1": {
+    "first_seen": "2026-03-16T18:09:11.728668"
+  },
+  "defillama_zksync-lite-bridge": {
+    "first_seen": "2026-03-16T18:09:11.729412"
+  },
+  "defillama_metis-bridge": {
+    "first_seen": "2026-03-16T18:09:11.730128"
+  },
+  "defillama_alpaca-leveraged-yield-farming": {
+    "first_seen": "2026-03-16T18:09:11.731620"
+  },
+  "defillama_alchemix": {
+    "first_seen": "2026-03-16T18:09:11.732689"
+  },
+  "defillama_neverland": {
+    "first_seen": "2026-03-16T18:09:11.733400"
+  },
+  "defillama_megaeth-bridge": {
+    "first_seen": "2026-03-16T18:09:11.734373"
+  },
+  "defillama_manta-pacific": {
+    "first_seen": "2026-03-16T18:09:11.736067"
+  },
+  "defillama_gravity-by-galxe": {
+    "first_seen": "2026-03-16T18:09:11.736877"
+  },
+  "defillama_dhedge-vaults": {
+    "first_seen": "2026-03-16T18:09:11.737847"
+  },
+  "defillama_cronos-zkevm-bridge": {
+    "first_seen": "2026-03-16T18:09:11.740059"
+  },
+  "defillama_meteora-damm-v1": {
+    "first_seen": "2026-03-16T18:09:11.741276"
+  },
+  "defillama_ankr": {
+    "first_seen": "2026-03-16T18:09:11.742417"
+  },
+  "defillama_rhea-dex": {
+    "first_seen": "2026-03-16T18:09:11.743564"
+  },
+  "defillama_arbitrum-nova-bridge": {
+    "first_seen": "2026-03-16T18:09:11.744694"
+  },
+  "defillama_stobox": {
+    "first_seen": "2026-03-16T18:09:11.745783"
+  },
+  "defillama_apeswap-amm": {
+    "first_seen": "2026-03-16T18:09:11.746961"
+  },
+  "defillama_synapse": {
+    "first_seen": "2026-03-16T18:09:11.748203"
+  },
+  "defillama_injective-bridge": {
+    "first_seen": "2026-03-16T18:09:11.749626"
+  },
+  "defillama_osmosis-dex": {
+    "first_seen": "2026-03-16T18:09:11.750840"
+  },
+  "defillama_yield-yak-aggregator": {
+    "first_seen": "2026-03-16T18:09:11.752084"
+  },
+  "defillama_serum": {
+    "first_seen": "2026-03-16T18:09:11.753337"
+  },
+  "defillama_index-coop": {
+    "first_seen": "2026-03-16T18:09:11.754595"
+  },
+  "defillama_tramplin.io": {
+    "first_seen": "2026-03-16T18:09:11.755723"
+  },
+  "defillama_zklink-nova": {
+    "first_seen": "2026-03-16T18:09:11.756897"
+  },
+  "defillama_joe-dex": {
+    "first_seen": "2026-03-16T18:09:11.758113"
+  },
+  "defillama_harvest-finance": {
+    "first_seen": "2026-03-16T18:09:11.759268"
+  },
+  "defillama_fuel-bridge": {
+    "first_seen": "2026-03-16T18:09:11.760686"
+  },
+  "defillama_dodo-amm": {
+    "first_seen": "2026-03-16T18:09:11.761921"
+  },
+  "defillama_pnetwork": {
+    "first_seen": "2026-03-16T18:09:11.763144"
+  },
+  "defillama_set-protocol": {
+    "first_seen": "2026-03-16T18:09:11.764348"
+  },
+  "defillama_belt-finance": {
+    "first_seen": "2026-03-16T18:09:11.765435"
+  },
+  "defillama_volo-lst": {
+    "first_seen": "2026-03-16T18:09:11.766532"
+  },
+  "defillama_royco-v2": {
+    "first_seen": "2026-03-16T18:09:11.767428"
+  },
+  "defillama_loopring": {
+    "first_seen": "2026-03-16T18:09:11.768602"
+  },
+  "defillama_egas-swap": {
+    "first_seen": "2026-03-16T18:09:11.769772"
+  },
+  "defillama_kava-lend": {
+    "first_seen": "2026-03-16T18:09:11.770971"
+  },
+  "defillama_lbank": {
+    "first_seen": "2026-03-16T18:09:11.772189"
+  },
+  "defillama_acryptos": {
+    "first_seen": "2026-03-16T18:09:11.774134"
+  },
+  "defillama_bancor-v2.1": {
+    "first_seen": "2026-03-16T18:09:11.775343"
+  },
+  "defillama_sovryn-dex": {
+    "first_seen": "2026-03-16T18:09:11.776506"
+  },
+  "defillama_hegic": {
+    "first_seen": "2026-03-16T18:09:11.777755"
+  },
+  "defillama_badger-dao": {
+    "first_seen": "2026-03-16T18:09:11.778900"
+  },
+  "defillama_inverse-finance-frontier": {
+    "first_seen": "2026-03-16T18:09:11.780209"
+  },
+  "defillama_bifi": {
+    "first_seen": "2026-03-16T18:09:11.782185"
+  },
+  "defillama_balancer-v1": {
+    "first_seen": "2026-03-16T18:09:11.783392"
+  },
+  "defillama_origin-dollar": {
+    "first_seen": "2026-03-16T18:09:11.784724"
+  },
+  "defillama_botanix-bridge": {
+    "first_seen": "2026-03-16T18:09:11.785985"
+  },
+  "defillama_nuls": {
+    "first_seen": "2026-03-16T18:09:11.787232"
+  },
+  "defillama_eclipse-bridge": {
+    "first_seen": "2026-03-16T18:09:11.788473"
+  },
+  "defillama_mode-bridge": {
+    "first_seen": "2026-03-16T18:09:11.789802"
+  },
+  "defillama_zora-bridge": {
+    "first_seen": "2026-03-16T18:09:11.791126"
+  },
+  "defillama_biswap-v2": {
+    "first_seen": "2026-03-16T18:09:11.792354"
+  },
+  "defillama_sx-rollup-bridge": {
+    "first_seen": "2026-03-16T18:09:11.793336"
+  },
+  "defillama_vires-finance": {
+    "first_seen": "2026-03-16T18:09:11.794608"
+  },
+  "defillama_zircuit": {
+    "first_seen": "2026-03-16T18:09:11.795865"
+  },
+  "defillama_shibaswap-v1": {
+    "first_seen": "2026-03-16T18:09:11.797177"
+  },
+  "defillama_autofarm": {
+    "first_seen": "2026-03-16T18:09:11.798418"
+  },
+  "defillama_francium": {
+    "first_seen": "2026-03-16T18:09:11.799418"
+  },
+  "defillama_tranchess-yield": {
+    "first_seen": "2026-03-16T18:09:11.800745"
+  },
+  "defillama_stafi": {
+    "first_seen": "2026-03-16T18:09:11.802041"
+  },
+  "defillama_acre": {
+    "first_seen": "2026-03-16T18:09:11.803353"
+  },
+  "defillama_sorare-bridge": {
+    "first_seen": "2026-03-16T18:09:11.804609"
+  },
+  "defillama_saber": {
+    "first_seen": "2026-03-16T18:09:11.805628"
+  },
+  "defillama_usual-eth0": {
+    "first_seen": "2026-03-16T18:09:11.807105"
+  },
+  "defillama_k2": {
+    "first_seen": "2026-03-16T18:09:11.808451"
+  },
+  "defillama_wing-finance": {
+    "first_seen": "2026-03-16T18:09:11.809744"
+  },
+  "defillama_cvault-finance": {
+    "first_seen": "2026-03-16T18:09:11.811104"
+  },
+  "defillama_pickle": {
+    "first_seen": "2026-03-16T18:09:11.812546"
+  },
+  "defillama_ronin-bridge": {
+    "first_seen": "2026-03-16T18:09:11.813896"
+  },
+  "defillama_powh3d": {
+    "first_seen": "2026-03-16T18:09:11.815296"
+  },
+  "defillama_idle": {
+    "first_seen": "2026-03-16T18:09:11.816647"
+  },
+  "defillama_sirius": {
+    "first_seen": "2026-03-16T18:09:11.818079"
+  },
+  "defillama_pooltogether-v3": {
+    "first_seen": "2026-03-16T18:09:11.819488"
+  },
+  "defillama_allbridge-classic": {
+    "first_seen": "2026-03-16T18:09:11.820839"
+  },
+  "defillama_spectra-metavaults": {
+    "first_seen": "2026-03-16T18:09:11.822292"
+  },
+  "defillama_mangrove": {
+    "first_seen": "2026-03-16T18:09:11.823707"
+  },
+  "defillama_theoriq": {
+    "first_seen": "2026-03-16T18:09:11.825123"
+  },
+  "defillama_ribbon": {
+    "first_seen": "2026-03-16T18:09:11.826217"
+  },
+  "defillama_rss3-bridge": {
+    "first_seen": "2026-03-16T18:09:11.827658"
+  },
+  "defillama_hop-protocol": {
+    "first_seen": "2026-03-16T18:09:11.829094"
+  },
+  "defillama_defa-by-invoicemate": {
+    "first_seen": "2026-03-16T18:09:11.830477"
+  },
+  "defillama_unichain-bridge": {
+    "first_seen": "2026-03-16T18:09:11.841142"
+  },
+  "defillama_avalon-superearn": {
+    "first_seen": "2026-03-16T18:09:11.842145"
+  },
+  "defillama_bakeryswap": {
+    "first_seen": "2026-03-16T18:09:11.843145"
+  },
+  "defillama_klayswap-v1": {
+    "first_seen": "2026-03-16T18:09:11.844153"
+  },
+  "defillama_balanced-exchange": {
+    "first_seen": "2026-03-16T18:09:11.845144"
+  },
+  "defillama_bunny": {
+    "first_seen": "2026-03-16T18:09:11.846213"
+  },
+  "defillama_qidao": {
+    "first_seen": "2026-03-16T18:09:11.847281"
+  },
+  "defillama_gmx-v1-perps": {
+    "first_seen": "2026-03-16T18:09:11.848692"
+  },
+  "defillama_unslashed": {
+    "first_seen": "2026-03-16T18:09:11.850184"
+  },
+  "defillama_mstable-cdp": {
+    "first_seen": "2026-03-16T18:09:11.851668"
+  },
+  "defillama_sovryn-bridge": {
+    "first_seen": "2026-03-16T18:09:11.853112"
+  },
+  "defillama_1inch": {
+    "first_seen": "2026-03-16T18:09:11.854350"
+  },
+  "defillama_notional-v2": {
+    "first_seen": "2026-03-16T18:09:11.855879"
+  },
+  "defillama_compound-v1": {
+    "first_seen": "2026-03-16T18:09:11.857399"
+  },
+  "defillama_boba-bridge": {
+    "first_seen": "2026-03-16T18:09:11.858768"
+  },
+  "defillama_fomo3d": {
+    "first_seen": "2026-03-16T18:09:11.859893"
+  },
+  "defillama_nftx": {
+    "first_seen": "2026-03-16T18:09:11.861480"
+  },
+  "defillama_strike-finance-perpetuals": {
+    "first_seen": "2026-03-16T18:09:11.863173"
+  },
+  "defillama_sunny": {
+    "first_seen": "2026-03-16T18:09:11.864739"
+  },
+  "defillama_flamingo-finance": {
+    "first_seen": "2026-03-16T18:09:11.866354"
+  },
+  "defillama_mento-v3": {
+    "first_seen": "2026-03-16T18:09:11.867936"
+  },
+  "defillama_universe-xyz": {
+    "first_seen": "2026-03-16T18:09:11.870518"
+  },
+  "defillama_pangolin-v2": {
+    "first_seen": "2026-03-16T18:09:11.872388"
+  },
+  "defillama_port-finance": {
+    "first_seen": "2026-03-16T18:09:11.874596"
+  },
+  "defillama_b.protocol": {
+    "first_seen": "2026-03-16T18:09:11.875823"
+  },
+  "defillama_gro": {
+    "first_seen": "2026-03-16T18:09:11.877024"
+  },
+  "defillama_overtime": {
+    "first_seen": "2026-03-16T18:09:11.878661"
+  },
+  "defillama_eventum-bridge": {
+    "first_seen": "2026-03-16T18:09:11.880264"
+  },
+  "defillama_derivadex": {
+    "first_seen": "2026-03-16T18:09:11.881894"
+  },
+  "defillama_zero-network": {
+    "first_seen": "2026-03-16T18:09:11.883199"
+  },
+  "defillama_service-nervous-systems": {
+    "first_seen": "2026-03-16T18:09:11.884857"
+  },
+  "defillama_arrakis-v1": {
+    "first_seen": "2026-03-16T18:09:11.886571"
+  },
+  "defillama_zircuit-finance": {
+    "first_seen": "2026-03-16T18:09:11.888166"
+  },
+  "defillama_paimon": {
+    "first_seen": "2026-03-16T18:09:11.889911"
+  },
+  "defillama_rook": {
+    "first_seen": "2026-03-16T18:09:11.891762"
+  },
+  "defillama_planet-farm": {
+    "first_seen": "2026-03-16T18:09:11.893029"
+  },
+  "defillama_nerve": {
+    "first_seen": "2026-03-16T18:09:11.894272"
+  },
+  "defillama_rari-capital": {
+    "first_seen": "2026-03-16T18:09:11.896375"
+  },
+  "defillama_mdex": {
+    "first_seen": "2026-03-16T18:09:11.897569"
+  },
+  "defillama_babyswap": {
+    "first_seen": "2026-03-16T18:09:11.898786"
+  },
+  "defillama_reaper-farm": {
+    "first_seen": "2026-03-16T18:09:11.900067"
+  },
+  "defillama_idex-classic": {
+    "first_seen": "2026-03-16T18:09:11.901777"
+  },
+  "defillama_beets-dex": {
+    "first_seen": "2026-03-16T18:09:11.902980"
+  },
+  "defillama_cyclone": {
+    "first_seen": "2026-03-16T18:09:11.904887"
+  },
+  "defillama_mcdex": {
+    "first_seen": "2026-03-16T18:09:11.906689"
+  },
+  "defillama_scream": {
+    "first_seen": "2026-03-16T18:09:11.908374"
+  },
+  "defillama_tokenlon-amm": {
+    "first_seen": "2026-03-16T18:09:11.909548"
+  },
+  "defillama_ellipsis-finance": {
+    "first_seen": "2026-03-16T18:09:11.910743"
+  },
+  "defillama_spookyswap-v2": {
+    "first_seen": "2026-03-16T18:09:11.911933"
+  },
+  "defillama_swamp-finance": {
+    "first_seen": "2026-03-16T18:09:11.913211"
+  },
+  "defillama_moola-market": {
+    "first_seen": "2026-03-16T18:09:11.914585"
+  },
+  "defillama_depth": {
+    "first_seen": "2026-03-16T18:09:11.916362"
+  },
+  "defillama_defichain-dex": {
+    "first_seen": "2026-03-16T18:09:11.918196"
+  },
+  "defillama_wanswap-dex": {
+    "first_seen": "2026-03-16T18:09:11.919944"
+  },
+  "defillama_ddex": {
+    "first_seen": "2026-03-16T18:09:11.921747"
+  },
+  "defillama_rsk-bridge": {
+    "first_seen": "2026-03-16T18:09:11.923559"
+  },
+  "defillama_derive-v1": {
+    "first_seen": "2026-03-16T18:09:11.927054"
+  },
+  "defillama_kine-finance": {
+    "first_seen": "2026-03-16T18:09:11.928472"
+  },
+  "defillama_larix": {
+    "first_seen": "2026-03-16T18:09:11.930305"
+  },
+  "defillama_kyberswap-classic": {
+    "first_seen": "2026-03-16T18:09:11.932081"
+  },
+  "defillama_defi-swap": {
+    "first_seen": "2026-03-16T18:09:11.933398"
+  },
+  "defillama_dforce-lending": {
+    "first_seen": "2026-03-16T18:09:11.935250"
+  },
+  "defillama_shape-bridge": {
+    "first_seen": "2026-03-16T18:09:11.937155"
+  },
+  "defillama_atrix": {
+    "first_seen": "2026-03-16T18:09:11.939031"
+  },
+  "defillama_keep-network": {
+    "first_seen": "2026-03-16T18:09:11.940720"
+  },
+  "defillama_outcome-finance": {
+    "first_seen": "2026-03-16T18:09:11.942469"
+  },
+  "defillama_wepiggy": {
+    "first_seen": "2026-03-16T18:09:11.944468"
+  },
+  "defillama_kolibri": {
+    "first_seen": "2026-03-16T18:09:11.946372"
+  },
+  "defillama_conduit-bridge": {
+    "first_seen": "2026-03-16T18:09:11.948681"
+  },
+  "defillama_purrlend": {
+    "first_seen": "2026-03-16T18:09:11.951709"
+  },
+  "defillama_saddle-finance": {
+    "first_seen": "2026-03-16T18:09:11.954429"
+  },
+  "defillama_rhino.fi": {
+    "first_seen": "2026-03-16T18:09:11.956754"
+  },
+  "defillama_lens-chain": {
+    "first_seen": "2026-03-16T18:09:11.959344"
+  },
+  "defillama_clipper": {
+    "first_seen": "2026-03-16T18:09:11.961852"
+  },
+  "defillama_parallel-protocol-v2": {
+    "first_seen": "2026-03-16T18:09:11.963703"
+  },
+  "defillama_defidollar-dao": {
+    "first_seen": "2026-03-16T18:09:11.965158"
+  },
+  "defillama_sun.io": {
+    "first_seen": "2026-03-16T18:09:11.967068"
+  },
+  "defillama_ubeswap-v2": {
+    "first_seen": "2026-03-16T18:09:11.968346"
+  },
+  "defillama_piedao": {
+    "first_seen": "2026-03-16T18:09:11.969787"
+  },
+  "defillama_impermax-v2": {
+    "first_seen": "2026-03-16T18:09:11.971293"
+  },
+  "defillama_rari-chain": {
+    "first_seen": "2026-03-16T18:09:11.973299"
+  },
+  "defillama_delv-yield": {
+    "first_seen": "2026-03-16T18:09:11.974940"
+  },
+  "defillama_honeyswap": {
+    "first_seen": "2026-03-16T18:09:11.976522"
+  },
+  "defillama_tetu-earn": {
+    "first_seen": "2026-03-16T18:09:11.978772"
+  },
+  "defillama_karura-liquid-staking": {
+    "first_seen": "2026-03-16T18:09:11.980136"
+  },
+  "defillama_tokenlabs": {
+    "first_seen": "2026-03-16T18:09:11.981432"
+  },
+  "defillama_redstone": {
+    "first_seen": "2026-03-16T18:09:11.982745"
+  },
+  "defillama_kinto-bridge": {
+    "first_seen": "2026-03-16T18:09:11.984238"
+  },
+  "defillama_liquidium": {
+    "first_seen": "2026-03-16T18:09:11.985802"
+  },
+  "defillama_shido-dex-v3": {
+    "first_seen": "2026-03-16T18:09:11.987926"
+  },
+  "defillama_rip.xyz": {
+    "first_seen": "2026-03-16T18:09:11.989460"
+  },
+  "defillama_mint-bridge": {
+    "first_seen": "2026-03-16T18:09:11.990995"
+  },
+  "defillama_tarot": {
+    "first_seen": "2026-03-16T18:09:11.993081"
+  },
+  "defillama_bearnfi": {
+    "first_seen": "2026-03-16T18:09:11.995198"
+  },
+  "defillama_defibox": {
+    "first_seen": "2026-03-16T18:09:11.997122"
+  },
+  "defillama_swop": {
+    "first_seen": "2026-03-16T18:09:11.999223"
+  },
+  "defillama_cherryswap": {
+    "first_seen": "2026-03-16T18:09:12.001345"
+  },
+  "defillama_cyber": {
+    "first_seen": "2026-03-16T18:09:12.003540"
+  },
+  "defillama_hyward": {
+    "first_seen": "2026-03-16T18:09:12.005672"
+  },
+  "defillama_doma-dex-v3": {
+    "first_seen": "2026-03-16T18:09:12.007211"
+  },
+  "defillama_beta-finance-v1": {
+    "first_seen": "2026-03-16T18:09:12.008732"
+  },
+  "defillama_soon": {
+    "first_seen": "2026-03-16T18:09:12.010481"
+  },
+  "defillama_prime-vaults": {
+    "first_seen": "2026-03-16T18:09:12.012597"
+  },
+  "defillama_degen-bridge": {
+    "first_seen": "2026-03-16T18:09:12.014111"
+  },
+  "defillama_wrap-protocol": {
+    "first_seen": "2026-03-16T18:09:12.015701"
+  },
+  "defillama_unicly": {
+    "first_seen": "2026-03-16T18:09:12.017873"
+  },
+  "defillama_sherlock": {
+    "first_seen": "2026-03-16T18:09:12.020059"
+  },
+  "defillama_smoothy": {
+    "first_seen": "2026-03-16T18:09:12.022233"
+  },
+  "defillama_integral": {
+    "first_seen": "2026-03-16T18:09:12.024263"
+  },
+  "defillama_pangolin-v3": {
+    "first_seen": "2026-03-16T18:09:12.026392"
+  },
+  "defillama_pinkswap": {
+    "first_seen": "2026-03-16T18:09:12.028630"
+  },
+  "defillama_mochifi": {
+    "first_seen": "2026-03-16T18:09:12.030676"
+  },
+  "defillama_itrust-finance": {
+    "first_seen": "2026-03-16T18:09:12.032296"
+  },
+  "defillama_valuedefi": {
+    "first_seen": "2026-03-16T18:09:12.034252"
+  },
+  "defillama_perpetual-protocol": {
+    "first_seen": "2026-03-16T18:09:12.036308"
+  },
+  "defillama_echelon-initia-bridge": {
+    "first_seen": "2026-03-16T18:09:12.037848"
+  },
+  "defillama_quipuswap-v1": {
+    "first_seen": "2026-03-16T18:09:12.039754"
+  },
+  "defillama_mayan-dex-aggregator": {
+    "first_seen": "2026-03-16T18:09:12.041867"
+  },
+  "defillama_apy-finance": {
+    "first_seen": "2026-03-16T18:09:12.043455"
+  },
+  "defillama_cryptex-v1": {
+    "first_seen": "2026-03-16T18:09:12.045444"
+  },
+  "defillama_adamant-finance": {
+    "first_seen": "2026-03-16T18:09:12.047304"
+  },
+  "defillama_88mph": {
+    "first_seen": "2026-03-16T18:09:12.048863"
+  },
+  "defillama_kswap-finance": {
+    "first_seen": "2026-03-16T18:09:12.050815"
+  },
+  "defillama_yaxis": {
+    "first_seen": "2026-03-16T18:09:12.053002"
+  },
+  "defillama_dfyn-network": {
+    "first_seen": "2026-03-16T18:09:12.054647"
+  },
+  "defillama_jetswap": {
+    "first_seen": "2026-03-16T18:09:12.056683"
+  },
+  "defillama_convergence": {
+    "first_seen": "2026-03-16T18:09:12.058596"
+  },
+  "defillama_amun": {
+    "first_seen": "2026-03-16T18:09:12.060184"
+  },
+  "defillama_swapr-v2": {
+    "first_seen": "2026-03-16T18:09:12.062146"
+  },
+  "defillama_yfii": {
+    "first_seen": "2026-03-16T18:09:12.064069"
+  },
+  "defillama_boringdao": {
+    "first_seen": "2026-03-16T18:09:12.065665"
+  },
+  "defillama_mobius-money": {
+    "first_seen": "2026-03-16T18:09:12.067661"
+  },
+  "defillama_volmex": {
+    "first_seen": "2026-03-16T18:09:12.069762"
+  },
+  "defillama_scientix": {
+    "first_seen": "2026-03-16T18:09:12.071455"
+  },
+  "defillama_mayan-bridge": {
+    "first_seen": "2026-03-16T18:09:12.073764"
+  },
+  "defillama_secretswap": {
+    "first_seen": "2026-03-16T18:09:12.075999"
+  },
+  "defillama_spiritswap-amm": {
+    "first_seen": "2026-03-16T18:09:12.078140"
+  },
+  "defillama_enibridge": {
+    "first_seen": "2026-03-16T18:09:12.080653"
+  },
+  "defillama_terraswap": {
+    "first_seen": "2026-03-16T18:09:12.082911"
+  },
+  "defillama_snowball": {
+    "first_seen": "2026-03-16T18:09:12.084576"
+  },
+  "defillama_alchemist": {
+    "first_seen": "2026-03-16T18:09:12.086798"
+  },
+  "defillama_kava-swap": {
+    "first_seen": "2026-03-16T18:09:12.088591"
+  },
+  "defillama_siren": {
+    "first_seen": "2026-03-16T18:09:12.090272"
+  },
+  "defillama_deri-protocol": {
+    "first_seen": "2026-03-16T18:09:12.092359"
+  },
+  "defillama_charm-finance-v1": {
+    "first_seen": "2026-03-16T18:09:12.094531"
+  },
+  "defillama_swerve": {
+    "first_seen": "2026-03-16T18:09:12.096451"
+  },
+  "defillama_orderly-chain": {
+    "first_seen": "2026-03-16T18:09:12.098590"
+  },
+  "defillama_soneium-bridge": {
+    "first_seen": "2026-03-16T18:09:12.100143"
+  },
+  "defillama_goose-finance": {
+    "first_seen": "2026-03-16T18:09:12.101701"
+  },
+  "defillama_steakbank-finance": {
+    "first_seen": "2026-03-16T18:09:12.103418"
+  },
+  "defillama_orion-pools": {
+    "first_seen": "2026-03-16T18:09:12.105571"
+  },
+  "defillama_metronome-v1": {
+    "first_seen": "2026-03-16T18:09:12.107980"
+  },
+  "defillama_wardenswap": {
+    "first_seen": "2026-03-16T18:09:12.110739"
+  },
+  "defillama_perpl": {
+    "first_seen": "2026-03-16T18:09:12.113615"
+  },
+  "defillama_coinswap-space": {
+    "first_seen": "2026-03-16T18:09:12.116349"
+  },
+  "defillama_onx-finance": {
+    "first_seen": "2026-03-16T18:09:12.119174"
+  },
+  "defillama_ancient8": {
+    "first_seen": "2026-03-16T18:09:12.121961"
+  },
+  "defillama_pantherswap": {
+    "first_seen": "2026-03-16T18:09:12.124787"
+  },
+  "defillama_the-tokenized-bitcoin": {
+    "first_seen": "2026-03-16T18:09:12.127571"
+  },
+  "defillama_youswap": {
+    "first_seen": "2026-03-16T18:09:12.130264"
+  },
+  "defillama_zivoe": {
+    "first_seen": "2026-03-16T18:09:12.132517"
+  },
+  "defillama_elk": {
+    "first_seen": "2026-03-16T18:09:12.134922"
+  },
+  "defillama_augury-finance": {
+    "first_seen": "2026-03-16T18:09:12.137370"
+  },
+  "defillama_hyperjump": {
+    "first_seen": "2026-03-16T18:09:12.140523"
+  },
+  "defillama_zilswap": {
+    "first_seen": "2026-03-16T18:09:12.143418"
+  },
+  "defillama_atomiq-exchange": {
+    "first_seen": "2026-03-16T18:09:12.146209"
+  },
+  "defillama_rage-protocol": {
+    "first_seen": "2026-03-16T18:09:12.149724"
+  },
+  "defillama_yam-finance": {
+    "first_seen": "2026-03-16T18:09:12.153104"
+  },
+  "defillama_finnexus": {
+    "first_seen": "2026-03-16T18:09:12.155960"
+  },
+  "defillama_hundred-finance": {
+    "first_seen": "2026-03-16T18:09:12.157849"
+  },
+  "defillama_solarbeam": {
+    "first_seen": "2026-03-16T18:09:12.159870"
+  },
+  "defillama_serum-swap": {
+    "first_seen": "2026-03-16T18:09:12.162279"
+  },
+  "defillama_premia-v2": {
+    "first_seen": "2026-03-16T18:09:12.163917"
+  },
+  "defillama_alphix": {
+    "first_seen": "2026-03-16T18:09:12.165699"
+  },
+  "defillama_zentra-finance": {
+    "first_seen": "2026-03-16T18:09:12.167931"
+  },
+  "defillama_polycat": {
+    "first_seen": "2026-03-16T18:09:12.169930"
+  },
+  "defillama_cub-finance": {
+    "first_seen": "2026-03-16T18:09:12.171639"
+  },
+  "defillama_ten-finance": {
+    "first_seen": "2026-03-16T18:09:12.173440"
+  },
+  "defillama_wasabix": {
+    "first_seen": "2026-03-16T18:09:12.175627"
+  },
+  "defillama_alita-finance": {
+    "first_seen": "2026-03-16T18:09:12.178909"
+  },
+  "defillama_moonswap": {
+    "first_seen": "2026-03-16T18:09:12.182532"
+  },
+  "defillama_usual-eur0": {
+    "first_seen": "2026-03-16T18:09:12.185804"
+  },
+  "defillama_spreads-finance": {
+    "first_seen": "2026-03-16T18:09:12.187902"
+  },
+  "defillama_inertia-bridge": {
+    "first_seen": "2026-03-16T18:09:12.190146"
+  },
+  "defillama_fuji-v1": {
+    "first_seen": "2026-03-16T18:09:12.192752"
+  },
+  "defillama_swap.coffee": {
+    "first_seen": "2026-03-16T18:09:12.195136"
+  },
+  "defillama_defi-kingdoms": {
+    "first_seen": "2026-03-16T18:09:12.197903"
+  },
+  "defillama_jetfuel-finance": {
+    "first_seen": "2026-03-16T18:09:12.199714"
+  },
+  "defillama_deltadefi": {
+    "first_seen": "2026-03-16T18:09:12.201951"
+  },
+  "defillama_dopple-finance": {
+    "first_seen": "2026-03-16T18:09:12.204134"
+  },
+  "defillama_openocean": {
+    "first_seen": "2026-03-16T18:09:12.205812"
+  },
+  "defillama_float-protocol": {
+    "first_seen": "2026-03-16T18:09:12.207747"
+  },
+  "defillama_neutrino": {
+    "first_seen": "2026-03-16T18:09:12.210295"
+  },
+  "defillama_cream-lending": {
+    "first_seen": "2026-03-16T18:09:12.211984"
+  },
+  "defillama_kogefarm": {
+    "first_seen": "2026-03-16T18:09:12.213847"
+  },
+  "defillama_stone-vault": {
+    "first_seen": "2026-03-16T18:09:12.216442"
+  },
+  "defillama_kuswap": {
+    "first_seen": "2026-03-16T18:09:12.218916"
+  },
+  "defillama_energiswap": {
+    "first_seen": "2026-03-16T18:09:12.221561"
+  },
+  "defillama_liquid-driver": {
+    "first_seen": "2026-03-16T18:09:12.224315"
+  },
+  "defillama_zkswap": {
+    "first_seen": "2026-03-16T18:09:12.226959"
+  },
+  "defillama_omm": {
+    "first_seen": "2026-03-16T18:09:12.229679"
+  },
+  "defillama_float": {
+    "first_seen": "2026-03-16T18:09:12.232470"
+  },
+  "defillama_insurace": {
+    "first_seen": "2026-03-16T18:09:12.235209"
+  },
+  "defillama_simpledex": {
+    "first_seen": "2026-03-16T18:09:12.238071"
+  },
+  "defillama_levinswap": {
+    "first_seen": "2026-03-16T18:09:12.240771"
+  },
+  "defillama_jet-v1": {
+    "first_seen": "2026-03-16T18:09:12.243651"
+  },
+  "defillama_twindex": {
+    "first_seen": "2026-03-16T18:09:12.246364"
+  },
+  "defillama_padswap": {
+    "first_seen": "2026-03-16T18:09:12.249199"
+  },
+  "defillama_value-liquid": {
+    "first_seen": "2026-03-16T18:09:12.251914"
+  },
+  "defillama_indexed-finance": {
+    "first_seen": "2026-03-16T18:09:12.254690"
+  },
+  "defillama_shell-protocol": {
+    "first_seen": "2026-03-16T18:09:12.257532"
+  },
+  "defillama_mars-poolin": {
+    "first_seen": "2026-03-16T18:09:12.262273"
+  },
+  "defillama_basketdao": {
+    "first_seen": "2026-03-16T18:09:12.266913"
+  },
+  "defillama_kyberswap-elastic": {
+    "first_seen": "2026-03-16T18:09:12.270494"
+  },
+  "defillama_nerve-staking": {
+    "first_seen": "2026-03-16T18:09:12.277351"
+  },
+  "defillama_varen": {
+    "first_seen": "2026-03-16T18:09:12.286421"
+  },
+  "defillama_terraport": {
+    "first_seen": "2026-03-16T18:09:12.296098"
+  },
+  "defillama_alpaca-dex": {
+    "first_seen": "2026-03-16T18:09:12.302619"
+  },
+  "defillama_dorkfi": {
+    "first_seen": "2026-03-16T18:09:12.310536"
+  },
+  "defillama_cvi-finance": {
+    "first_seen": "2026-03-16T18:09:12.313973"
+  },
+  "defillama_geist-finance": {
+    "first_seen": "2026-03-16T18:09:12.320321"
+  },
+  "defillama_peakdefi": {
+    "first_seen": "2026-03-16T18:09:12.325666"
+  },
+  "defillama_treasure-bridge": {
+    "first_seen": "2026-03-16T18:09:12.332359"
+  },
+  "defillama_domani-protocol": {
+    "first_seen": "2026-03-16T18:09:12.342500"
+  },
+  "defillama_vigor": {
+    "first_seen": "2026-03-16T18:09:12.350757"
+  },
+  "defillama_filda": {
+    "first_seen": "2026-03-16T18:09:12.354954"
+  },
+  "defillama_xdollar": {
+    "first_seen": "2026-03-16T18:09:12.357414"
+  },
+  "defillama_ample": {
+    "first_seen": "2026-03-16T18:09:12.360463"
+  },
+  "defillama_unagii": {
+    "first_seen": "2026-03-16T18:09:12.364089"
+  },
+  "defillama_gravity-finance": {
+    "first_seen": "2026-03-16T18:09:12.367069"
+  },
+  "defillama_penguin-finance": {
+    "first_seen": "2026-03-16T18:09:12.369954"
+  },
+  "defillama_dfs-network": {
+    "first_seen": "2026-03-16T18:09:12.372651"
+  },
+  "defillama_barnbridge": {
+    "first_seen": "2026-03-16T18:09:12.374580"
+  },
+  "defillama_crunchy": {
+    "first_seen": "2026-03-16T18:09:12.376986"
+  },
+  "defillama_kroma": {
+    "first_seen": "2026-03-16T18:09:12.379589"
+  },
+  "defillama_geyser": {
+    "first_seen": "2026-03-16T18:09:12.381536"
+  },
+  "defillama_olive-cash": {
+    "first_seen": "2026-03-16T18:09:12.383982"
+  },
+  "defillama_bella-protocol": {
+    "first_seen": "2026-03-16T18:09:12.386494"
+  },
+  "defillama_plenty": {
+    "first_seen": "2026-03-16T18:09:12.388455"
+  },
+  "defillama_canonic": {
+    "first_seen": "2026-03-16T18:09:12.390988"
+  },
+  "defillama_creamswap": {
+    "first_seen": "2026-03-16T18:09:12.393293"
+  },
+  "defillama_dfx-v2": {
+    "first_seen": "2026-03-16T18:09:12.395230"
+  },
+  "defillama_snowswap": {
+    "first_seen": "2026-03-16T18:09:12.397224"
+  },
+  "defillama_murphy": {
+    "first_seen": "2026-03-16T18:09:12.400156"
+  },
+  "defillama_pippi": {
+    "first_seen": "2026-03-16T18:09:12.408738"
+  },
+  "defillama_bunicorn": {
+    "first_seen": "2026-03-16T18:09:12.412097"
+  },
+  "defillama_arbis-finance": {
+    "first_seen": "2026-03-16T18:09:12.415502"
+  },
+  "defillama_arbinyan": {
+    "first_seen": "2026-03-16T18:09:12.418977"
+  },
+  "defillama_hunny-finance": {
+    "first_seen": "2026-03-16T18:09:12.422191"
+  },
+  "defillama_supra-bridge": {
+    "first_seen": "2026-03-16T18:09:12.424274"
+  },
+  "defillama_treedefi": {
+    "first_seen": "2026-03-16T18:09:12.426868"
+  },
+  "defillama_trava-finance": {
+    "first_seen": "2026-03-16T18:09:12.429248"
+  },
+  "defillama_complus-network": {
+    "first_seen": "2026-03-16T18:09:12.431232"
+  },
+  "defillama_sandglass": {
+    "first_seen": "2026-03-16T18:09:12.433382"
+  },
+  "defillama_appchain-bridge": {
+    "first_seen": "2026-03-16T18:09:12.436518"
+  },
+  "defillama_mochiswap": {
+    "first_seen": "2026-03-16T18:09:12.439943"
+  },
+  "defillama_tinlake": {
+    "first_seen": "2026-03-16T18:09:12.443510"
+  },
+  "defillama_latteswap": {
+    "first_seen": "2026-03-16T18:09:12.446656"
+  },
+  "defillama_governor-dao": {
+    "first_seen": "2026-03-16T18:09:12.450062"
+  },
+  "defillama_sakeperp": {
+    "first_seen": "2026-03-16T18:09:12.452171"
+  },
+  "defillama_powerpool": {
+    "first_seen": "2026-03-16T18:09:12.454816"
+  },
+  "defillama_primitive": {
+    "first_seen": "2026-03-16T18:09:12.457349"
+  },
+  "defillama_oxygen": {
+    "first_seen": "2026-03-16T18:09:12.459415"
+  },
+  "defillama_milkyway-rollup-bridge": {
+    "first_seen": "2026-03-16T18:09:12.462178"
+  },
+  "defillama_ribbon-lend": {
+    "first_seen": "2026-03-16T18:09:12.465673"
+  },
+  "defillama_orion-money": {
+    "first_seen": "2026-03-16T18:09:12.468223"
+  },
+  "defillama_lydia": {
+    "first_seen": "2026-03-16T18:09:12.470921"
+  },
+  "defillama_frost-finance": {
+    "first_seen": "2026-03-16T18:09:12.473495"
+  },
+  "defillama_tetu-swap": {
+    "first_seen": "2026-03-16T18:09:12.475612"
+  },
+  "defillama_moonpot": {
+    "first_seen": "2026-03-16T18:09:12.478397"
+  },
+  "defillama_bamboodefi": {
+    "first_seen": "2026-03-16T18:09:12.480805"
+  },
+  "defillama_busta-exchange": {
+    "first_seen": "2026-03-16T18:09:12.482833"
+  },
+  "defillama_symmetric": {
+    "first_seen": "2026-03-16T18:09:12.485128"
+  },
+  "defillama_cobraswap": {
+    "first_seen": "2026-03-16T18:09:12.487895"
+  },
+  "defillama_ethernity-chain": {
+    "first_seen": "2026-03-16T18:09:12.491090"
+  },
+  "defillama_zkcandy-bridge": {
+    "first_seen": "2026-03-16T18:09:12.494337"
+  },
+  "defillama_bxh": {
+    "first_seen": "2026-03-16T18:09:12.497616"
+  },
+  "defillama_0.exchange": {
+    "first_seen": "2026-03-16T18:09:12.500569"
+  },
+  "defillama_aperocket": {
+    "first_seen": "2026-03-16T18:09:12.502750"
+  },
+  "defillama_paladin-vote": {
+    "first_seen": "2026-03-16T18:09:12.505577"
+  },
+  "defillama_warp-protocol": {
+    "first_seen": "2026-03-16T18:09:12.508534"
+  },
+  "defillama_magic-land": {
+    "first_seen": "2026-03-16T18:09:12.511782"
+  },
+  "defillama_multiplier": {
+    "first_seen": "2026-03-16T18:09:12.515070"
+  },
+  "defillama_tranche-finance": {
+    "first_seen": "2026-03-16T18:09:12.517233"
+  },
+  "defillama_cometh": {
+    "first_seen": "2026-03-16T18:09:12.520124"
+  },
+  "defillama_hyper-finance": {
+    "first_seen": "2026-03-16T18:09:12.522679"
+  },
+  "defillama_cafeswap": {
+    "first_seen": "2026-03-16T18:09:12.528416"
+  },
+  "defillama_emiswap": {
+    "first_seen": "2026-03-16T18:09:12.531161"
+  },
+  "defillama_normal": {
+    "first_seen": "2026-03-16T18:09:12.533988"
+  },
+  "defillama_bao-masterchef-v1": {
+    "first_seen": "2026-03-16T18:09:12.537331"
+  },
+  "defillama_printr": {
+    "first_seen": "2026-03-16T18:09:12.540826"
+  },
+  "defillama_mushrooms-finance": {
+    "first_seen": "2026-03-16T18:09:12.544266"
+  },
+  "defillama_aladdin-dao": {
+    "first_seen": "2026-03-16T18:09:12.547560"
+  },
+  "defillama_wswap-bridge": {
+    "first_seen": "2026-03-16T18:09:12.550926"
+  },
+  "defillama_zlot": {
+    "first_seen": "2026-03-16T18:09:12.553453"
+  },
+  "defillama_grim-finance": {
+    "first_seen": "2026-03-16T18:09:12.556578"
+  },
+  "defillama_ooki": {
+    "first_seen": "2026-03-16T18:09:12.558909"
+  },
+  "defillama_canary": {
+    "first_seen": "2026-03-16T18:09:12.562460"
+  },
+  "defillama_cofix": {
+    "first_seen": "2026-03-16T18:09:12.564895"
+  },
+  "defillama_cycle-finance": {
+    "first_seen": "2026-03-16T18:09:12.568195"
+  },
+  "defillama_alkemi": {
+    "first_seen": "2026-03-16T18:09:12.571054"
+  },
+  "defillama_ram-protocol": {
+    "first_seen": "2026-03-16T18:09:12.574251"
+  },
+  "defillama_qie-bridge": {
+    "first_seen": "2026-03-16T18:09:12.577283"
+  },
+  "defillama_tidal-finance": {
+    "first_seen": "2026-03-16T18:09:12.580935"
+  },
+  "defillama_yapeswap": {
+    "first_seen": "2026-03-16T18:09:12.583479"
+  },
+  "defillama_parrot-defi": {
+    "first_seen": "2026-03-16T18:09:12.586736"
+  },
+  "defillama_naos-finance": {
+    "first_seen": "2026-03-16T18:09:12.589813"
+  },
+  "defillama_viperswap": {
+    "first_seen": "2026-03-16T18:09:12.593596"
+  },
+  "defillama_baguette": {
+    "first_seen": "2026-03-16T18:09:12.597328"
+  },
+  "defillama_alienx": {
+    "first_seen": "2026-03-16T18:09:12.600409"
+  },
+  "defillama_singular-farm": {
+    "first_seen": "2026-03-16T18:09:12.602673"
+  },
+  "defillama_growth-defi": {
+    "first_seen": "2026-03-16T18:09:12.605691"
+  },
+  "defillama_truefi": {
+    "first_seen": "2026-03-16T18:09:12.609805"
+  },
+  "defillama_kokomoswap": {
+    "first_seen": "2026-03-16T18:09:12.616237"
+  },
+  "defillama_stakesteak": {
+    "first_seen": "2026-03-16T18:09:12.641350"
+  },
+  "defillama_swipe": {
+    "first_seen": "2026-03-16T18:09:12.643582"
+  },
+  "defillama_telos-swap": {
+    "first_seen": "2026-03-16T18:09:12.645717"
+  },
+  "defillama_macaronswap": {
+    "first_seen": "2026-03-16T18:09:12.648215"
+  },
+  "defillama_bitchill": {
+    "first_seen": "2026-03-16T18:09:12.651603"
+  },
+  "defillama_gaj-finance": {
+    "first_seen": "2026-03-16T18:09:12.654418"
+  },
+  "defillama_firebird": {
+    "first_seen": "2026-03-16T18:09:12.657856"
+  },
+  "defillama_chfry-finance": {
+    "first_seen": "2026-03-16T18:09:12.661336"
+  },
+  "defillama_dinoswap": {
+    "first_seen": "2026-03-16T18:09:12.664869"
+  },
+  "defillama_qubit": {
+    "first_seen": "2026-03-16T18:09:12.668304"
+  },
+  "defillama_sashimiswap": {
+    "first_seen": "2026-03-16T18:09:12.671721"
+  },
+  "defillama_huckleberry-amm": {
+    "first_seen": "2026-03-16T18:09:12.675251"
+  },
+  "defillama_composable-finance": {
+    "first_seen": "2026-03-16T18:09:12.678735"
+  },
+  "defillama_foxswap": {
+    "first_seen": "2026-03-16T18:09:12.682306"
+  },
+  "defillama_shinjo": {
+    "first_seen": "2026-03-16T18:09:12.685877"
+  },
+  "defillama_enterdao": {
+    "first_seen": "2026-03-16T18:09:12.689437"
+  },
+  "defillama_qiedex": {
+    "first_seen": "2026-03-16T18:09:12.693059"
+  },
+  "defillama_channels-finance": {
+    "first_seen": "2026-03-16T18:09:12.696581"
+  },
+  "defillama_qilin": {
+    "first_seen": "2026-03-16T18:09:12.700108"
+  },
+  "defillama_makiswap": {
+    "first_seen": "2026-03-16T18:09:12.703388"
+  },
+  "defillama_vee-finance": {
+    "first_seen": "2026-03-16T18:09:12.706921"
+  },
+  "defillama_deri-chain": {
+    "first_seen": "2026-03-16T18:09:12.709607"
+  },
+  "defillama_qielend": {
+    "first_seen": "2026-03-16T18:09:12.712837"
+  },
+  "defillama_steth-exchange": {
+    "first_seen": "2026-03-16T18:09:12.715477"
+  },
+  "defillama_kuu-finance": {
+    "first_seen": "2026-03-16T18:09:12.719068"
+  },
+  "defillama_shibance": {
+    "first_seen": "2026-03-16T18:09:12.721682"
+  },
+  "defillama_guard-helmet": {
+    "first_seen": "2026-03-16T18:09:12.725315"
+  },
+  "defillama_yetiswap": {
+    "first_seen": "2026-03-16T18:09:12.730628"
+  },
+  "defillama_2xswap": {
+    "first_seen": "2026-03-16T18:09:12.732930"
+  },
+  "defillama_daoventures": {
+    "first_seen": "2026-03-16T18:09:12.735349"
+  },
+  "defillama_1swap": {
+    "first_seen": "2026-03-16T18:09:12.738528"
+  },
+  "defillama_newland": {
+    "first_seen": "2026-03-16T18:09:12.744454"
+  },
+  "defillama_miningtycoon": {
+    "first_seen": "2026-03-16T18:09:12.748071"
+  },
+  "defillama_stormswap": {
+    "first_seen": "2026-03-16T18:09:12.750563"
+  },
+  "defillama_spectrum-protocol": {
+    "first_seen": "2026-03-16T18:09:12.754904"
+  },
+  "defillama_freeriver": {
+    "first_seen": "2026-03-16T18:09:12.759597"
+  },
+  "defillama_polydex-cryption-network": {
+    "first_seen": "2026-03-16T18:09:12.761973"
+  },
+  "defillama_popsicle-finance": {
+    "first_seen": "2026-03-16T18:09:12.764268"
+  },
+  "defillama_apollodao": {
+    "first_seen": "2026-03-16T18:09:12.767493"
+  },
+  "defillama_wild-credit": {
+    "first_seen": "2026-03-16T18:09:12.773701"
+  },
+  "defillama_morpheus-swap": {
+    "first_seen": "2026-03-16T18:09:12.777195"
+  },
+  "defillama_whiteheart": {
+    "first_seen": "2026-03-16T18:09:12.779636"
+  },
+  "defillama_paintswap-on-fantom": {
+    "first_seen": "2026-03-16T18:09:12.783725"
+  },
+  "defillama_strike": {
+    "first_seen": "2026-03-16T18:09:12.786963"
+  },
+  "defillama_carbon-finance": {
+    "first_seen": "2026-03-16T18:09:12.790733"
+  },
+  "defillama_zabu-finance": {
+    "first_seen": "2026-03-16T18:09:12.794883"
+  },
+  "defillama_rush-sports": {
+    "first_seen": "2026-03-16T18:09:12.798967"
+  },
+  "defillama_acoconut": {
+    "first_seen": "2026-03-16T18:09:12.802573"
+  },
+  "defillama_defirex": {
+    "first_seen": "2026-03-16T18:09:12.806592"
+  },
+  "defillama_tulip-protocol": {
+    "first_seen": "2026-03-16T18:09:12.810937"
+  },
+  "defillama_flashstake-old": {
+    "first_seen": "2026-03-16T18:09:12.815064"
+  },
+  "defillama_robo-vault": {
+    "first_seen": "2026-03-16T18:09:12.818094"
+  },
+  "defillama_waka-finance": {
+    "first_seen": "2026-03-16T18:09:12.822304"
+  },
+  "defillama_zoocoin": {
+    "first_seen": "2026-03-16T18:09:12.826686"
+  },
+  "defillama_unifi": {
+    "first_seen": "2026-03-16T18:09:12.830104"
+  },
+  "defillama_annex": {
+    "first_seen": "2026-03-16T18:09:12.832671"
+  },
+  "defillama_the-grand-banks": {
+    "first_seen": "2026-03-16T18:09:12.836311"
+  },
+  "defillama_stacker-ventures": {
+    "first_seen": "2026-03-16T18:09:12.840176"
+  },
+  "defillama_robo-advisor-for-yield": {
+    "first_seen": "2026-03-16T18:09:12.843702"
+  },
+  "defillama_cryptoyieldfocus": {
+    "first_seen": "2026-03-16T18:09:12.847472"
+  },
+  "defillama_sonicswap": {
+    "first_seen": "2026-03-16T18:09:12.851359"
+  },
+  "defillama_eddyfinance-stableswap": {
+    "first_seen": "2026-03-16T18:09:12.853940"
+  },
+  "defillama_polydex": {
+    "first_seen": "2026-03-16T18:09:12.857594"
+  },
+  "defillama_etmcv2": {
+    "first_seen": "2026-03-16T18:09:12.860601"
+  },
+  "defillama_mantra-dao": {
+    "first_seen": "2026-03-16T18:09:12.863501"
+  },
+  "defillama_soulswap": {
+    "first_seen": "2026-03-16T18:09:12.866067"
+  },
+  "defillama_blizzard": {
+    "first_seen": "2026-03-16T18:09:12.869950"
+  },
+  "defillama_newdex": {
+    "first_seen": "2026-03-16T18:09:12.874336"
+  },
+  "defillama_zenland": {
+    "first_seen": "2026-03-16T18:09:12.877971"
+  },
+  "defillama_parity-dex-cl": {
+    "first_seen": "2026-03-16T18:09:12.882058"
+  },
+  "defillama_synthetix-v1+v2": {
+    "first_seen": "2026-03-16T18:09:12.884557"
+  },
+  "defillama_trustswap": {
+    "first_seen": "2026-03-16T18:09:12.887236"
+  },
+  "defillama_tendieswap": {
+    "first_seen": "2026-03-16T18:09:12.891238"
+  },
+  "defillama_currentx-v3": {
+    "first_seen": "2026-03-16T18:09:12.895377"
+  },
+  "defillama_nexion-vaults": {
+    "first_seen": "2026-03-16T18:09:12.899433"
+  },
+  "defillama_unfederalreserve": {
+    "first_seen": "2026-03-16T18:09:12.902743"
+  },
+  "defillama_seadex": {
+    "first_seen": "2026-03-16T18:09:12.906877"
+  },
+  "defillama_aquarius": {
+    "first_seen": "2026-03-16T18:09:12.910917"
+  },
+  "defillama_kilolend": {
+    "first_seen": "2026-03-16T18:09:12.914938"
+  },
+  "defillama_shiba-fantom": {
+    "first_seen": "2026-03-16T18:09:12.918599"
+  },
+  "defillama_kingdefi": {
+    "first_seen": "2026-03-16T18:09:12.921701"
+  },
+  "defillama_defi-yield-protocol": {
+    "first_seen": "2026-03-16T18:09:12.924313"
+  },
+  "defillama_ok-bitok-vault": {
+    "first_seen": "2026-03-16T18:09:12.928086"
+  },
+  "defillama_stash.fun": {
+    "first_seen": "2026-03-16T18:09:12.932154"
+  },
+  "defillama_definer": {
+    "first_seen": "2026-03-16T18:09:12.936289"
+  },
+  "defillama_dapp-account-dao": {
+    "first_seen": "2026-03-16T18:09:12.940327"
+  },
+  "defillama_sapphire-defi": {
+    "first_seen": "2026-03-16T18:09:12.943254"
+  },
+  "defillama_swapmatic": {
+    "first_seen": "2026-03-16T18:09:12.945837"
+  },
+  "defillama_augmented-finance": {
+    "first_seen": "2026-03-16T18:09:12.949575"
+  },
+  "defillama_yieldcore": {
+    "first_seen": "2026-03-16T18:09:12.953338"
+  },
+  "defillama_liqee": {
+    "first_seen": "2026-03-16T18:09:12.957147"
+  },
+  "defillama_fortube": {
+    "first_seen": "2026-03-16T18:09:12.961305"
+  },
+  "defillama_bumper-finance": {
+    "first_seen": "2026-03-16T18:09:12.965240"
+  },
+  "defillama_memento": {
+    "first_seen": "2026-03-16T18:09:12.970675"
+  },
+  "defillama_artemis-protocol": {
+    "first_seen": "2026-03-16T18:09:12.975932"
+  },
+  "defillama_nexion-predictions": {
+    "first_seen": "2026-03-16T18:09:12.981244"
+  },
+  "defillama_avaware": {
+    "first_seen": "2026-03-16T18:09:12.984760"
+  },
+  "defillama_gfex": {
+    "first_seen": "2026-03-16T18:09:12.987855"
+  },
+  "defillama_yield-wars": {
+    "first_seen": "2026-03-16T18:09:12.991714"
+  },
+  "defillama_tideswap-dex": {
+    "first_seen": "2026-03-16T18:09:12.995998"
+  },
+  "defillama_parity-dex": {
+    "first_seen": "2026-03-16T18:09:12.999098"
+  },
+  "defillama_caddy-finance": {
+    "first_seen": "2026-03-16T18:09:13.001753"
+  },
+  "defillama_basafish": {
+    "first_seen": "2026-03-16T18:09:13.005587"
+  },
+  "defillama_nexion-dex": {
+    "first_seen": "2026-03-16T18:09:13.009473"
+  },
+  "defillama_the-dragons-lair": {
+    "first_seen": "2026-03-16T18:09:13.013639"
+  },
+  "defillama_zenydex": {
+    "first_seen": "2026-03-16T18:09:13.017063"
+  },
+  "defillama_whalehub": {
+    "first_seen": "2026-03-16T18:09:13.020837"
+  },
+  "defillama_floe-labs": {
+    "first_seen": "2026-03-16T18:09:13.024720"
+  },
+  "defillama_flux-protocol": {
+    "first_seen": "2026-03-16T18:09:13.028578"
+  },
+  "defillama_fuzz-finance": {
+    "first_seen": "2026-03-16T18:09:13.031602"
+  },
+  "defillama_gondola-finance": {
+    "first_seen": "2026-03-16T18:09:13.034974"
+  },
+  "defillama_zkfair": {
+    "first_seen": "2026-03-16T18:09:13.037714"
+  },
+  "defillama_s-finance": {
+    "first_seen": "2026-03-16T18:09:13.041394"
+  },
+  "defillama_ink-bridge": {
+    "first_seen": "2026-03-16T18:09:13.044555"
+  },
+  "defillama_xdefi": {
+    "first_seen": "2026-03-16T18:09:13.047891"
+  },
+  "defillama_meso-finance-fantom-farm": {
+    "first_seen": "2026-03-16T18:09:13.051796"
+  },
+  "defillama_openzk": {
+    "first_seen": "2026-03-16T18:09:13.056098"
+  },
+  "defillama_megamble": {
+    "first_seen": "2026-03-16T18:09:13.059902"
+  },
+  "defillama_someswap-cl": {
+    "first_seen": "2026-03-16T18:09:13.063771"
+  },
+  "defillama_futureswap": {
+    "first_seen": "2026-03-16T18:09:13.067879"
+  },
+  "defillama_honeyplay-liquid-staking": {
+    "first_seen": "2026-03-16T18:09:13.070869"
+  },
+  "defillama_predmart": {
+    "first_seen": "2026-03-16T18:09:13.073586"
+  },
+  "defillama_velox-dex": {
+    "first_seen": "2026-03-16T18:09:13.077709"
+  },
+  "defillama_feeder-finance": {
+    "first_seen": "2026-03-16T18:09:13.081998"
+  },
+  "defillama_babypig-finance": {
+    "first_seen": "2026-03-16T18:09:13.085812"
+  },
+  "defillama_nowswap": {
+    "first_seen": "2026-03-16T18:09:13.088930"
+  },
+  "defillama_westarter": {
+    "first_seen": "2026-03-16T18:09:13.092387"
+  },
+  "defillama_hypersafe": {
+    "first_seen": "2026-03-16T18:09:13.095360"
+  },
+  "defillama_mixoor": {
+    "first_seen": "2026-03-16T18:09:13.099768"
+  },
+  "defillama_morphex-v1-perps": {
+    "first_seen": "2026-03-16T18:09:13.103877"
+  },
+  "defillama_renvm": {
+    "first_seen": "2026-03-16T18:09:13.107299"
+  },
+  "defillama_hbtc": {
+    "first_seen": "2026-03-16T18:09:13.111263"
+  },
+  "defillama_bepswap": {
+    "first_seen": "2026-03-16T18:09:13.115452"
+  },
+  "defillama_dracula": {
+    "first_seen": "2026-03-16T18:09:13.119847"
+  },
+  "defillama_dev-protocol": {
+    "first_seen": "2026-03-16T18:09:13.123415"
+  },
+  "defillama_synlev": {
+    "first_seen": "2026-03-16T18:09:13.126945"
+  },
+  "defillama_bt.finance": {
+    "first_seen": "2026-03-16T18:09:13.130521"
+  },
+  "defillama_n3rd-finance": {
+    "first_seen": "2026-03-16T18:09:13.134909"
+  },
+  "defillama_strudel-finance": {
+    "first_seen": "2026-03-16T18:09:13.139197"
+  },
+  "defillama_perlin": {
+    "first_seen": "2026-03-16T18:09:13.145657"
+  },
+  "defillama_flamincome": {
+    "first_seen": "2026-03-16T18:09:13.154567"
+  },
+  "defillama_allinx": {
+    "first_seen": "2026-03-16T18:09:13.159894"
+  },
+  "defillama_sharedstake": {
+    "first_seen": "2026-03-16T18:09:13.164761"
+  },
+  "defillama_stakehound": {
+    "first_seen": "2026-03-16T18:09:13.168407"
+  },
+  "defillama_mango-markets-v3": {
+    "first_seen": "2026-03-16T18:09:13.171451"
+  },
+  "defillama_anchor": {
+    "first_seen": "2026-03-16T18:09:13.176580"
+  },
+  "defillama_stacks-staking": {
+    "first_seen": "2026-03-16T18:09:13.182893"
+  },
+  "defillama_zookeeper": {
+    "first_seen": "2026-03-16T18:09:13.187055"
+  },
+  "defillama_bondappetit": {
+    "first_seen": "2026-03-16T18:09:13.191413"
+  },
+  "defillama_wault": {
+    "first_seen": "2026-03-16T18:09:13.195932"
+  },
+  "defillama_ruler": {
+    "first_seen": "2026-03-16T18:09:13.200502"
+  },
+  "defillama_yogi-finance": {
+    "first_seen": "2026-03-16T18:09:13.205080"
+  },
+  "defillama_o3-swap": {
+    "first_seen": "2026-03-16T18:09:13.209489"
+  },
+  "defillama_sifchain": {
+    "first_seen": "2026-03-16T18:09:13.212523"
+  },
+  "defillama_olympus-dao": {
+    "first_seen": "2026-03-16T18:09:13.215535"
+  },
+  "defillama_yieldly": {
+    "first_seen": "2026-03-16T18:09:13.219286"
+  },
+  "defillama_merlin": {
+    "first_seen": "2026-03-16T18:09:13.223148"
+  },
+  "defillama_rabbit-finance": {
+    "first_seen": "2026-03-16T18:09:13.227680"
+  },
+  "defillama_lendhub": {
+    "first_seen": "2026-03-16T18:09:13.232206"
+  },
+  "defillama_solyard": {
+    "first_seen": "2026-03-16T18:09:13.236409"
+  },
+  "defillama_acumen": {
+    "first_seen": "2026-03-16T18:09:13.240891"
+  },
+  "defillama_longdrink": {
+    "first_seen": "2026-03-16T18:09:13.244980"
+  },
+  "defillama_witswap": {
+    "first_seen": "2026-03-16T18:09:13.249696"
+  },
+  "defillama_pylon-protocol": {
+    "first_seen": "2026-03-16T18:09:13.252763"
+  },
+  "defillama_karura-swap": {
+    "first_seen": "2026-03-16T18:09:13.256291"
+  },
+  "defillama_karura-dollar-(kusd)": {
+    "first_seen": "2026-03-16T18:09:13.260928"
+  },
+  "defillama_back-finance": {
+    "first_seen": "2026-03-16T18:09:13.265452"
+  },
+  "defillama_telcoin": {
+    "first_seen": "2026-03-16T18:09:13.269033"
+  },
+  "defillama_ondo-v1-(legacy)": {
+    "first_seen": "2026-03-16T18:09:13.273355"
+  },
+  "defillama_mensa-protocol": {
+    "first_seen": "2026-03-16T18:09:13.277847"
+  },
+  "defillama_avalaunch": {
+    "first_seen": "2026-03-16T18:09:13.284182"
+  },
+  "defillama_asgard-finance": {
+    "first_seen": "2026-03-16T18:09:13.286991"
+  },
+  "defillama_hfione": {
+    "first_seen": "2026-03-16T18:09:13.289947"
+  },
+  "defillama_pilot-protocol": {
+    "first_seen": "2026-03-16T18:09:13.293652"
+  },
+  "defillama_coinwind": {
+    "first_seen": "2026-03-16T18:09:13.299720"
+  },
+  "defillama_pizza": {
+    "first_seen": "2026-03-16T18:09:13.302719"
+  },
+  "defillama_volta-club": {
+    "first_seen": "2026-03-16T18:09:13.305671"
+  },
+  "defillama_ramp": {
+    "first_seen": "2026-03-16T18:09:13.309454"
+  },
+  "defillama_genshiro": {
+    "first_seen": "2026-03-16T18:09:13.312319"
+  },
+  "defillama_timewarp": {
+    "first_seen": "2026-03-16T18:09:13.315196"
+  },
+  "defillama_fabric": {
+    "first_seen": "2026-03-16T18:09:13.319519"
+  },
+  "defillama_sunrise-gaming": {
+    "first_seen": "2026-03-16T18:09:13.322350"
+  },
+  "defillama_shapeshift": {
+    "first_seen": "2026-03-16T18:09:13.325250"
+  },
+  "defillama_rocketswap": {
+    "first_seen": "2026-03-16T18:09:13.329593"
+  },
+  "defillama_banano": {
+    "first_seen": "2026-03-16T18:09:13.334084"
+  },
+  "defillama_ecurve": {
+    "first_seen": "2026-03-16T18:09:13.338794"
+  },
+  "defillama_amy-finance": {
+    "first_seen": "2026-03-16T18:09:13.342530"
+  },
+  "defillama_bogged-finance": {
+    "first_seen": "2026-03-16T18:09:13.346811"
+  },
+  "defillama_beanstalk": {
+    "first_seen": "2026-03-16T18:09:13.353728"
+  },
+  "defillama_sync-network": {
+    "first_seen": "2026-03-16T18:09:13.361346"
+  },
+  "defillama_almond": {
+    "first_seen": "2026-03-16T18:09:13.366608"
+  },
+  "defillama_only1": {
+    "first_seen": "2026-03-16T18:09:13.371621"
+  },
+  "defillama_defichain-loans": {
+    "first_seen": "2026-03-16T18:09:13.377679"
+  },
+  "defillama_lns": {
+    "first_seen": "2026-03-16T18:09:13.383373"
+  },
+  "defillama_parallel-polkadot-lending": {
+    "first_seen": "2026-03-16T18:09:13.388883"
+  },
+  "defillama_parallel-polkadot-amm": {
+    "first_seen": "2026-03-16T18:09:13.394387"
+  },
+  "defillama_parallel-polkadot-daofi": {
+    "first_seen": "2026-03-16T18:09:13.400062"
+  },
+  "defillama_parallel-polkadot-liquid-staking": {
+    "first_seen": "2026-03-16T18:09:13.406469"
+  },
+  "defillama_bankless": {
+    "first_seen": "2026-03-16T18:09:13.411655"
+  },
+  "defillama_aragon": {
+    "first_seen": "2026-03-16T18:09:13.416747"
+  },
+  "defillama_mantle-treasury": {
+    "first_seen": "2026-03-16T18:09:13.421850"
+  },
+  "defillama_pleasrdao": {
+    "first_seen": "2026-03-16T18:09:13.426844"
+  },
+  "defillama_rarible": {
+    "first_seen": "2026-03-16T18:09:13.431894"
+  },
+  "defillama_gnosis-dao": {
+    "first_seen": "2026-03-16T18:09:13.437417"
+  },
+  "defillama_ethereum-foundation": {
+    "first_seen": "2026-03-16T18:09:13.442629"
+  },
+  "defillama_nouns": {
+    "first_seen": "2026-03-16T18:09:13.448664"
+  },
+  "defillama_zonic": {
+    "first_seen": "2026-03-16T18:09:13.454137"
+  },
+  "defillama_thorwallet-dex": {
+    "first_seen": "2026-03-16T18:09:13.459670"
+  },
+  "defillama_onepunchswap": {
+    "first_seen": "2026-03-16T18:09:13.465438"
+  },
+  "defillama_nftearth": {
+    "first_seen": "2026-03-16T18:09:13.471210"
+  },
+  "defillama_pancakeswap-amm-v1": {
+    "first_seen": "2026-03-16T18:09:13.476681"
+  },
+  "defillama_chainlink-requests": {
+    "first_seen": "2026-03-16T18:09:13.484256"
+  },
+  "defillama_opensea-v1": {
+    "first_seen": "2026-03-16T18:09:13.490093"
+  },
+  "defillama_opensea-v2": {
+    "first_seen": "2026-03-16T18:09:13.496302"
+  },
+  "defillama_cowswap": {
+    "first_seen": "2026-03-16T18:09:13.501474"
+  },
+  "defillama_forta": {
+    "first_seen": "2026-03-16T18:09:13.507246"
+  },
+  "defillama_apecoin": {
+    "first_seen": "2026-03-16T18:09:13.511907"
+  },
+  "defillama_aptos": {
+    "first_seen": "2026-03-16T18:09:13.516398"
+  },
+  "defillama_canto": {
+    "first_seen": "2026-03-16T18:09:13.519615"
+  },
+  "defillama_blast-api": {
+    "first_seen": "2026-03-16T18:09:13.524522"
+  },
+  "defillama_get-protocol": {
+    "first_seen": "2026-03-16T18:09:13.531541"
+  },
+  "defillama_plexus": {
+    "first_seen": "2026-03-16T18:09:13.535692"
+  },
+  "defillama_arbitrum": {
+    "first_seen": "2026-03-16T18:09:13.539126"
+  },
+  "defillama_bitcoin": {
+    "first_seen": "2026-03-16T18:09:13.544054"
+  },
+  "defillama_acala": {
+    "first_seen": "2026-03-16T18:09:13.547583"
+  },
+  "defillama_moonbeam": {
+    "first_seen": "2026-03-16T18:09:13.551489"
+  },
+  "defillama_braindao": {
+    "first_seen": "2026-03-16T18:09:13.555911"
+  },
+  "defillama_airswap": {
+    "first_seen": "2026-03-16T18:09:13.560745"
+  },
+  "defillama_dxdao": {
+    "first_seen": "2026-03-16T18:09:13.564184"
+  },
+  "defillama_forth-dao": {
+    "first_seen": "2026-03-16T18:09:13.567423"
+  },
+  "defillama_optimism-foundation": {
+    "first_seen": "2026-03-16T18:09:13.572231"
+  },
+  "defillama_kwenta": {
+    "first_seen": "2026-03-16T18:09:13.576994"
+  },
+  "defillama_femboydao": {
+    "first_seen": "2026-03-16T18:09:13.581498"
+  },
+  "defillama_maestro": {
+    "first_seen": "2026-03-16T18:09:13.585475"
+  },
+  "defillama_metamask-wallet": {
+    "first_seen": "2026-03-16T18:09:13.589874"
+  },
+  "defillama_rainbow-wallet": {
+    "first_seen": "2026-03-16T18:09:13.595547"
+  },
+  "defillama_the-llamas": {
+    "first_seen": "2026-03-16T18:09:13.599736"
+  },
+  "defillama_stealcam": {
+    "first_seen": "2026-03-16T18:09:13.603923"
+  },
+  "defillama_avalanche": {
+    "first_seen": "2026-03-16T18:09:13.607338"
+  },
+  "defillama_defiato": {
+    "first_seen": "2026-03-16T18:09:13.610866"
+  },
+  "defillama_scatter": {
+    "first_seen": "2026-03-16T18:09:13.614556"
+  },
+  "defillama_avnu": {
+    "first_seen": "2026-03-16T18:09:13.618730"
+  },
+  "defillama_foundation": {
+    "first_seen": "2026-03-16T18:09:13.623350"
+  },
+  "defillama_sui-foundation": {
+    "first_seen": "2026-03-16T18:09:13.627648"
+  },
+  "defillama_bitget-swap": {
+    "first_seen": "2026-03-16T18:09:13.631717"
+  },
+  "defillama_near": {
+    "first_seen": "2026-03-16T18:09:13.635877"
+  },
+  "defillama_metis": {
+    "first_seen": "2026-03-16T18:09:13.640837"
+  },
+  "defillama_yield-guild-games": {
+    "first_seen": "2026-03-16T18:09:13.647380"
+  },
+  "defillama_arkham": {
+    "first_seen": "2026-03-16T18:09:13.654149"
+  },
+  "defillama_evmos-dao": {
+    "first_seen": "2026-03-16T18:09:13.714904"
+  },
+  "defillama_none-trading": {
+    "first_seen": "2026-03-16T18:09:13.720249"
+  },
+  "defillama_loot--dao": {
+    "first_seen": "2026-03-16T18:09:13.727850"
+  },
+  "defillama_basic-attention": {
+    "first_seen": "2026-03-16T18:09:13.733360"
+  },
+  "defillama_abachi": {
+    "first_seen": "2026-03-16T18:09:13.742394"
+  },
+  "defillama_jumper-exchange": {
+    "first_seen": "2026-03-16T18:09:13.747473"
+  },
+  "defillama_thena-perps": {
+    "first_seen": "2026-03-16T18:09:13.754043"
+  },
+  "defillama_celestia": {
+    "first_seen": "2026-03-16T18:09:13.760996"
+  },
+  "defillama_basedmarkets": {
+    "first_seen": "2026-03-16T18:09:13.766138"
+  },
+  "defillama_slingshot": {
+    "first_seen": "2026-03-16T18:09:13.771477"
+  },
+  "defillama_xoxno-nft-marketplace": {
+    "first_seen": "2026-03-16T18:09:13.776780"
+  },
+  "defillama_aggre": {
+    "first_seen": "2026-03-16T18:09:13.782230"
+  },
+  "defillama_llamaswap": {
+    "first_seen": "2026-03-16T18:09:13.787497"
+  },
+  "defillama_solana-name-service": {
+    "first_seen": "2026-03-16T18:09:13.792792"
+  },
+  "defillama_arcane-dex": {
+    "first_seen": "2026-03-16T18:09:13.798039"
+  },
+  "defillama_cardano": {
+    "first_seen": "2026-03-16T18:09:13.803501"
+  },
+  "defillama_odos": {
+    "first_seen": "2026-03-16T18:09:13.808698"
+  },
+  "defillama_dexhunter": {
+    "first_seen": "2026-03-16T18:09:13.814026"
+  },
+  "defillama_conveyor": {
+    "first_seen": "2026-03-16T18:09:13.819350"
+  },
+  "defillama_aftermath-aggregator": {
+    "first_seen": "2026-03-16T18:09:13.824588"
+  },
+  "defillama_kyberswap-aggregator": {
+    "first_seen": "2026-03-16T18:09:13.829816"
+  },
+  "defillama_panora": {
+    "first_seen": "2026-03-16T18:09:13.835473"
+  },
+  "defillama_injective": {
+    "first_seen": "2026-03-16T18:09:13.841231"
+  },
+  "defillama_xyra-labs-aggregator": {
+    "first_seen": "2026-03-16T18:09:13.846738"
+  },
+  "defillama_stepn": {
+    "first_seen": "2026-03-16T18:09:13.853054"
+  },
+  "defillama_wowmax-exchange": {
+    "first_seen": "2026-03-16T18:09:13.858931"
+  },
+  "defillama_opt-finance": {
+    "first_seen": "2026-03-16T18:09:13.864675"
+  },
+  "defillama_fibrous-finance": {
+    "first_seen": "2026-03-16T18:09:13.871372"
+  },
+  "defillama_geodnet": {
+    "first_seen": "2026-03-16T18:09:13.877194"
+  },
+  "defillama_bitscrunch": {
+    "first_seen": "2026-03-16T18:09:13.883151"
+  },
+  "defillama_sharpe-earn": {
+    "first_seen": "2026-03-16T18:09:13.889410"
+  },
+  "defillama_fly.trade": {
+    "first_seen": "2026-03-16T18:09:13.895443"
+  },
+  "defillama_etaswap": {
+    "first_seen": "2026-03-16T18:09:13.901427"
+  },
+  "defillama_ethereum": {
+    "first_seen": "2026-03-16T18:09:13.907749"
+  },
+  "defillama_helix-markets": {
+    "first_seen": "2026-03-16T18:09:13.913537"
+  },
+  "defillama_defiway": {
+    "first_seen": "2026-03-16T18:09:13.919548"
+  },
+  "defillama_internet-computer": {
+    "first_seen": "2026-03-16T18:09:13.925936"
+  },
+  "defillama_0x-aggregator": {
+    "first_seen": "2026-03-16T18:09:13.932636"
+  },
+  "defillama_tensor": {
+    "first_seen": "2026-03-16T18:09:13.938736"
+  },
+  "defillama_altlayer": {
+    "first_seen": "2026-03-16T18:09:13.945071"
+  },
+  "defillama_oasys": {
+    "first_seen": "2026-03-16T18:09:13.951245"
+  },
+  "defillama_bouncebit": {
+    "first_seen": "2026-03-16T18:09:13.957268"
+  },
+  "defillama_sei": {
+    "first_seen": "2026-03-16T18:09:13.963184"
+  },
+  "defillama_flare": {
+    "first_seen": "2026-03-16T18:09:13.969325"
+  },
+  "defillama_moon.it": {
+    "first_seen": "2026-03-16T18:09:13.975524"
+  },
+  "defillama_perpie": {
+    "first_seen": "2026-03-16T18:09:13.981503"
+  },
+  "defillama_hallswap": {
+    "first_seen": "2026-03-16T18:09:13.987215"
+  },
+  "defillama_flowx-aggregator": {
+    "first_seen": "2026-03-16T18:09:13.994898"
+  },
+  "defillama_bitoro-network": {
+    "first_seen": "2026-03-16T18:09:14.001973"
+  },
+  "defillama_zksync-era": {
+    "first_seen": "2026-03-16T18:09:14.009701"
+  },
+  "defillama_ape-jupiter": {
+    "first_seen": "2026-03-16T18:09:14.017880"
+  },
+  "defillama_layerzero": {
+    "first_seen": "2026-03-16T18:09:14.025494"
+  },
+  "defillama_7k-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.032723"
+  },
+  "defillama_soltradingbot": {
+    "first_seen": "2026-03-16T18:09:14.040798"
+  },
+  "defillama_akka": {
+    "first_seen": "2026-03-16T18:09:14.046474"
+  },
+  "defillama_line-token-rewards": {
+    "first_seen": "2026-03-16T18:09:14.054286"
+  },
+  "defillama_cetus-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.060472"
+  },
+  "defillama_metaplex": {
+    "first_seen": "2026-03-16T18:09:14.067745"
+  },
+  "defillama_goplus-security-app": {
+    "first_seen": "2026-03-16T18:09:14.096630"
+  },
+  "defillama_bunnyfi": {
+    "first_seen": "2026-03-16T18:09:14.134082"
+  },
+  "defillama_dex-screener": {
+    "first_seen": "2026-03-16T18:09:14.161701"
+  },
+  "defillama_manifold.xyz": {
+    "first_seen": "2026-03-16T18:09:14.184857"
+  },
+  "defillama_dextools": {
+    "first_seen": "2026-03-16T18:09:14.194683"
+  },
+  "defillama_tether": {
+    "first_seen": "2026-03-16T18:09:14.204695"
+  },
+  "defillama_the-graph": {
+    "first_seen": "2026-03-16T18:09:14.212766"
+  },
+  "defillama_unidex-agg-perp": {
+    "first_seen": "2026-03-16T18:09:14.220703"
+  },
+  "defillama_demented-games": {
+    "first_seen": "2026-03-16T18:09:14.227149"
+  },
+  "defillama_raybot": {
+    "first_seen": "2026-03-16T18:09:14.233738"
+  },
+  "defillama_memecast.ai": {
+    "first_seen": "2026-03-16T18:09:14.241974"
+  },
+  "defillama_chainspot": {
+    "first_seen": "2026-03-16T18:09:14.248259"
+  },
+  "defillama_orion-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.254635"
+  },
+  "defillama_rainbow-swap": {
+    "first_seen": "2026-03-16T18:09:14.260935"
+  },
+  "defillama_superchain": {
+    "first_seen": "2026-03-16T18:09:14.269699"
+  },
+  "defillama_fulcrom-amm": {
+    "first_seen": "2026-03-16T18:09:14.275951"
+  },
+  "defillama_morphex-v2-amm": {
+    "first_seen": "2026-03-16T18:09:14.283311"
+  },
+  "defillama_vertex-amm": {
+    "first_seen": "2026-03-16T18:09:14.289849"
+  },
+  "defillama_ktx-spot": {
+    "first_seen": "2026-03-16T18:09:14.300332"
+  },
+  "defillama_mango-markets-v4-amm": {
+    "first_seen": "2026-03-16T18:09:14.308108"
+  },
+  "defillama_beamex-amm": {
+    "first_seen": "2026-03-16T18:09:14.317902"
+  },
+  "defillama_grizzly-trade-amm": {
+    "first_seen": "2026-03-16T18:09:14.325331"
+  },
+  "defillama_morphex-v1-amm": {
+    "first_seen": "2026-03-16T18:09:14.335021"
+  },
+  "defillama_bmx-classic-amm": {
+    "first_seen": "2026-03-16T18:09:14.341520"
+  },
+  "defillama_blitz-amm": {
+    "first_seen": "2026-03-16T18:09:14.348041"
+  },
+  "defillama_ton-diamonds": {
+    "first_seen": "2026-03-16T18:09:14.358285"
+  },
+  "defillama_sharpe-perp-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.370819"
+  },
+  "defillama_moonshot.money": {
+    "first_seen": "2026-03-16T18:09:14.385319"
+  },
+  "defillama_prerich": {
+    "first_seen": "2026-03-16T18:09:14.399409"
+  },
+  "defillama_okx-swap": {
+    "first_seen": "2026-03-16T18:09:14.421525"
+  },
+  "defillama_mitte": {
+    "first_seen": "2026-03-16T18:09:14.443591"
+  },
+  "defillama_astros": {
+    "first_seen": "2026-03-16T18:09:14.453659"
+  },
+  "defillama_phantom-wallet": {
+    "first_seen": "2026-03-16T18:09:14.467465"
+  },
+  "defillama_mach": {
+    "first_seen": "2026-03-16T18:09:14.495899"
+  },
+  "defillama_clanker": {
+    "first_seen": "2026-03-16T18:09:14.507464"
+  },
+  "defillama_grix": {
+    "first_seen": "2026-03-16T18:09:14.514921"
+  },
+  "defillama_swing": {
+    "first_seen": "2026-03-16T18:09:14.527753"
+  },
+  "defillama_eos-evm-bridge": {
+    "first_seen": "2026-03-16T18:09:14.545998"
+  },
+  "defillama_iotex": {
+    "first_seen": "2026-03-16T18:09:14.553952"
+  },
+  "defillama_okx-bridge": {
+    "first_seen": "2026-03-16T18:09:14.560684"
+  },
+  "defillama_mantis": {
+    "first_seen": "2026-03-16T18:09:14.565736"
+  },
+  "defillama_teleswap-ton": {
+    "first_seen": "2026-03-16T18:09:14.571383"
+  },
+  "defillama_virtuals-protocol": {
+    "first_seen": "2026-03-16T18:09:14.577232"
+  },
+  "defillama_base-app": {
+    "first_seen": "2026-03-16T18:09:14.581969"
+  },
+  "defillama_dappos-intentex": {
+    "first_seen": "2026-03-16T18:09:14.587061"
+  },
+  "defillama_creator-bid": {
+    "first_seen": "2026-03-16T18:09:14.593193"
+  },
+  "defillama_vinunft": {
+    "first_seen": "2026-03-16T18:09:14.599934"
+  },
+  "defillama_ooia": {
+    "first_seen": "2026-03-16T18:09:14.607831"
+  },
+  "defillama_movement": {
+    "first_seen": "2026-03-16T18:09:14.616623"
+  },
+  "defillama_symphony-exchange": {
+    "first_seen": "2026-03-16T18:09:14.626270"
+  },
+  "defillama_ln-exchange-spot": {
+    "first_seen": "2026-03-16T18:09:14.635283"
+  },
+  "defillama_ln-exchange-perps": {
+    "first_seen": "2026-03-16T18:09:14.641859"
+  },
+  "defillama_sologenic": {
+    "first_seen": "2026-03-16T18:09:14.648527"
+  },
+  "defillama_vector.fun": {
+    "first_seen": "2026-03-16T18:09:14.655161"
+  },
+  "defillama_starbase": {
+    "first_seen": "2026-03-16T18:09:14.661641"
+  },
+  "defillama_superswap-ink": {
+    "first_seen": "2026-03-16T18:09:14.668427"
+  },
+  "defillama_rabby-wallet": {
+    "first_seen": "2026-03-16T18:09:14.675323"
+  },
+  "defillama_raydium-perps": {
+    "first_seen": "2026-03-16T18:09:14.681665"
+  },
+  "defillama_1delta": {
+    "first_seen": "2026-03-16T18:09:14.693046"
+  },
+  "defillama_berachain": {
+    "first_seen": "2026-03-16T18:09:14.699689"
+  },
+  "defillama_flashbots": {
+    "first_seen": "2026-03-16T18:09:14.709637"
+  },
+  "defillama_foom": {
+    "first_seen": "2026-03-16T18:09:14.718939"
+  },
+  "defillama_defi-app": {
+    "first_seen": "2026-03-16T18:09:14.725466"
+  },
+  "defillama_erc-burner": {
+    "first_seen": "2026-03-16T18:09:14.732068"
+  },
+  "defillama_ooga-booga": {
+    "first_seen": "2026-03-16T18:09:14.738329"
+  },
+  "defillama_tradewiz": {
+    "first_seen": "2026-03-16T18:09:14.745288"
+  },
+  "defillama_aave-chan": {
+    "first_seen": "2026-03-16T18:09:14.749216"
+  },
+  "defillama_suite": {
+    "first_seen": "2026-03-16T18:09:14.755477"
+  },
+  "defillama_finder-bot": {
+    "first_seen": "2026-03-16T18:09:14.759974"
+  },
+  "defillama_dextoro": {
+    "first_seen": "2026-03-16T18:09:14.766493"
+  },
+  "defillama_syncswap-v3": {
+    "first_seen": "2026-03-16T18:09:14.776720"
+  },
+  "defillama_fuel-staking": {
+    "first_seen": "2026-03-16T18:09:14.781576"
+  },
+  "defillama_dogecoin": {
+    "first_seen": "2026-03-16T18:09:14.788574"
+  },
+  "defillama_official-trump": {
+    "first_seen": "2026-03-16T18:09:14.795715"
+  },
+  "defillama_cookie-dao": {
+    "first_seen": "2026-03-16T18:09:14.800309"
+  },
+  "defillama_peaq": {
+    "first_seen": "2026-03-16T18:09:14.806456"
+  },
+  "defillama_quantixai": {
+    "first_seen": "2026-03-16T18:09:14.811187"
+  },
+  "defillama_celo": {
+    "first_seen": "2026-03-16T18:09:14.815964"
+  },
+  "defillama_axiom": {
+    "first_seen": "2026-03-16T18:09:14.820464"
+  },
+  "defillama_razor-dex": {
+    "first_seen": "2026-03-16T18:09:14.826506"
+  },
+  "defillama_arbitrum-timeboost": {
+    "first_seen": "2026-03-16T18:09:14.832180"
+  },
+  "defillama_kairos-timeboost": {
+    "first_seen": "2026-03-16T18:09:14.837798"
+  },
+  "defillama_beezie": {
+    "first_seen": "2026-03-16T18:09:14.843669"
+  },
+  "defillama_echo.xyz": {
+    "first_seen": "2026-03-16T18:09:14.849345"
+  },
+  "defillama_swaps.io": {
+    "first_seen": "2026-03-16T18:09:14.853498"
+  },
+  "defillama_li.fi-bridge-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.859236"
+  },
+  "defillama_humanfi": {
+    "first_seen": "2026-03-16T18:09:14.863812"
+  },
+  "defillama_socket-protocol": {
+    "first_seen": "2026-03-16T18:09:14.868792"
+  },
+  "defillama_helium": {
+    "first_seen": "2026-03-16T18:09:14.872841"
+  },
+  "defillama_ton": {
+    "first_seen": "2026-03-16T18:09:14.878544"
+  },
+  "defillama_tezos": {
+    "first_seen": "2026-03-16T18:09:14.883087"
+  },
+  "defillama_axie-infinity": {
+    "first_seen": "2026-03-16T18:09:14.888190"
+  },
+  "defillama_lobbyfi": {
+    "first_seen": "2026-03-16T18:09:14.893444"
+  },
+  "defillama_redstone-finance": {
+    "first_seen": "2026-03-16T18:09:14.898271"
+  },
+  "defillama_delysium": {
+    "first_seen": "2026-03-16T18:09:14.904674"
+  },
+  "defillama_whitebit": {
+    "first_seen": "2026-03-16T18:09:14.911543"
+  },
+  "defillama_vana": {
+    "first_seen": "2026-03-16T18:09:14.916251"
+  },
+  "defillama_pudgy-penguins": {
+    "first_seen": "2026-03-16T18:09:14.921102"
+  },
+  "defillama_jito-mev-tips": {
+    "first_seen": "2026-03-16T18:09:14.924750"
+  },
+  "defillama_holdstation-wallet-miniapp": {
+    "first_seen": "2026-03-16T18:09:14.929548"
+  },
+  "defillama_fastlane": {
+    "first_seen": "2026-03-16T18:09:14.933246"
+  },
+  "defillama_bungee-dex": {
+    "first_seen": "2026-03-16T18:09:14.938319"
+  },
+  "defillama_bungee-bridge-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.942433"
+  },
+  "defillama_worldle": {
+    "first_seen": "2026-03-16T18:09:14.948583"
+  },
+  "defillama_metal-x": {
+    "first_seen": "2026-03-16T18:09:14.952453"
+  },
+  "defillama_eden-relay": {
+    "first_seen": "2026-03-16T18:09:14.957533"
+  },
+  "defillama_li.fi-dex-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.961238"
+  },
+  "defillama_moss-genomics": {
+    "first_seen": "2026-03-16T18:09:14.966438"
+  },
+  "defillama_berachain-incentive-buys": {
+    "first_seen": "2026-03-16T18:09:14.972197"
+  },
+  "defillama_mimboku-aggregator": {
+    "first_seen": "2026-03-16T18:09:14.977858"
+  },
+  "defillama_vetrade": {
+    "first_seen": "2026-03-16T18:09:14.983383"
+  },
+  "defillama_mint-park": {
+    "first_seen": "2026-03-16T18:09:14.987118"
+  },
+  "defillama_permute": {
+    "first_seen": "2026-03-16T18:09:14.992367"
+  },
+  "defillama_haiku": {
+    "first_seen": "2026-03-16T18:09:14.997732"
+  },
+  "defillama_bluefin7k-aggregator": {
+    "first_seen": "2026-03-16T18:09:15.002638"
+  },
+  "defillama_gluex": {
+    "first_seen": "2026-03-16T18:09:15.007975"
+  },
+  "defillama_sharplink-gaming": {
+    "first_seen": "2026-03-16T18:09:15.014919"
+  },
+  "defillama_status": {
+    "first_seen": "2026-03-16T18:09:15.021500"
+  },
+  "defillama_eulerswap": {
+    "first_seen": "2026-03-16T18:09:15.028997"
+  },
+  "defillama_tr-energy": {
+    "first_seen": "2026-03-16T18:09:15.034309"
+  },
+  "defillama_liquidswap-hl": {
+    "first_seen": "2026-03-16T18:09:15.041917"
+  },
+  "defillama_rango": {
+    "first_seen": "2026-03-16T18:09:15.045844"
+  },
+  "defillama_unicornx": {
+    "first_seen": "2026-03-16T18:09:15.050571"
+  },
+  "defillama_embr-bridge": {
+    "first_seen": "2026-03-16T18:09:15.056113"
+  },
+  "defillama_apstation": {
+    "first_seen": "2026-03-16T18:09:15.061317"
+  },
+  "defillama_privex": {
+    "first_seen": "2026-03-16T18:09:15.066355"
+  },
+  "defillama_apebot": {
+    "first_seen": "2026-03-16T18:09:15.072439"
+  },
+  "defillama_dzap": {
+    "first_seen": "2026-03-16T18:09:15.076812"
+  },
+  "defillama_pumper": {
+    "first_seen": "2026-03-16T18:09:15.081881"
+  },
+  "defillama_hibachi": {
+    "first_seen": "2026-03-16T18:09:15.086577"
+  },
+  "defillama_orca-wavebreak": {
+    "first_seen": "2026-03-16T18:09:15.092413"
+  },
+  "defillama_pvp.trade": {
+    "first_seen": "2026-03-16T18:09:15.096396"
+  },
+  "defillama_orbiter-finance": {
+    "first_seen": "2026-03-16T18:09:15.101051"
+  },
+  "defillama_basedapp": {
+    "first_seen": "2026-03-16T18:09:15.107205"
+  },
+  "defillama_immutable-orderbook": {
+    "first_seen": "2026-03-16T18:09:15.113149"
+  },
+  "defillama_dexari": {
+    "first_seen": "2026-03-16T18:09:15.117374"
+  },
+  "defillama_lootbase": {
+    "first_seen": "2026-03-16T18:09:15.123660"
+  },
+  "defillama_mass": {
+    "first_seen": "2026-03-16T18:09:15.129691"
+  },
+  "defillama_sendshot": {
+    "first_seen": "2026-03-16T18:09:15.135968"
+  },
+  "defillama_nordstern.finance": {
+    "first_seen": "2026-03-16T18:09:15.141263"
+  },
+  "defillama_solfi-v1": {
+    "first_seen": "2026-03-16T18:09:15.147915"
+  },
+  "defillama_humidifi": {
+    "first_seen": "2026-03-16T18:09:15.153384"
+  },
+  "defillama_zerofi": {
+    "first_seen": "2026-03-16T18:09:15.158776"
+  },
+  "defillama_goonfi": {
+    "first_seen": "2026-03-16T18:09:15.162632"
+  },
+  "defillama_tessera-v": {
+    "first_seen": "2026-03-16T18:09:15.168081"
+  },
+  "defillama_dextrabot": {
+    "first_seen": "2026-03-16T18:09:15.174284"
+  },
+  "defillama_kinto-hyperliquid": {
+    "first_seen": "2026-03-16T18:09:15.180448"
+  },
+  "defillama_superx": {
+    "first_seen": "2026-03-16T18:09:15.188325"
+  },
+  "defillama_wallet-v": {
+    "first_seen": "2026-03-16T18:09:15.194482"
+  },
+  "defillama_aden": {
+    "first_seen": "2026-03-16T18:09:15.206089"
+  },
+  "defillama_jito-dao": {
+    "first_seen": "2026-03-16T18:09:15.218214"
+  },
+  "defillama_aqua": {
+    "first_seen": "2026-03-16T18:09:15.224724"
+  },
+  "defillama_kyberswap-fairflow": {
+    "first_seen": "2026-03-16T18:09:15.231593"
+  },
+  "defillama_dsx": {
+    "first_seen": "2026-03-16T18:09:15.244106"
+  },
+  "defillama_fluid-dex-lite": {
+    "first_seen": "2026-03-16T18:09:15.253769"
+  },
+  "defillama_heaven": {
+    "first_seen": "2026-03-16T18:09:15.262485"
+  },
+  "defillama_binance-alpha": {
+    "first_seen": "2026-03-16T18:09:15.270183"
+  },
+  "defillama_superboring": {
+    "first_seen": "2026-03-16T18:09:15.279811"
+  },
+  "defillama_catfee": {
+    "first_seen": "2026-03-16T18:09:15.289765"
+  },
+  "defillama_vexy": {
+    "first_seen": "2026-03-16T18:09:15.300752"
+  },
+  "defillama_helium-network": {
+    "first_seen": "2026-03-16T18:09:15.309211"
+  },
+  "defillama_opensea-dex-aggregator": {
+    "first_seen": "2026-03-16T18:09:15.313196"
+  },
+  "defillama_opensea-bridge-aggregator": {
+    "first_seen": "2026-03-16T18:09:15.318702"
+  },
+  "defillama_cattos": {
+    "first_seen": "2026-03-16T18:09:15.324850"
+  },
+  "defillama_mintiq-market": {
+    "first_seen": "2026-03-16T18:09:15.329784"
+  },
+  "defillama_standard-protocol-somnia": {
+    "first_seen": "2026-03-16T18:09:15.334760"
+  },
+  "defillama_rip.fun": {
+    "first_seen": "2026-03-16T18:09:15.339607"
+  },
+  "defillama_drip.trade": {
+    "first_seen": "2026-03-16T18:09:15.345804"
+  },
+  "defillama_3route": {
+    "first_seen": "2026-03-16T18:09:15.349822"
+  },
+  "defillama_collector-crypt": {
+    "first_seen": "2026-03-16T18:09:15.355710"
+  },
+  "defillama_zapzy": {
+    "first_seen": "2026-03-16T18:09:15.360843"
+  },
+  "defillama_phygitals": {
+    "first_seen": "2026-03-16T18:09:15.366068"
+  },
+  "defillama_bytzz": {
+    "first_seen": "2026-03-16T18:09:15.371355"
+  },
+  "defillama_geckoterminal": {
+    "first_seen": "2026-03-16T18:09:15.375324"
+  },
+  "defillama_aster-perps": {
+    "first_seen": "2026-03-16T18:09:15.380457"
+  },
+  "defillama_aster-spot": {
+    "first_seen": "2026-03-16T18:09:15.385749"
+  },
+  "defillama_cashmere": {
+    "first_seen": "2026-03-16T18:09:15.391630"
+  },
+  "defillama_emporium": {
+    "first_seen": "2026-03-16T18:09:15.397805"
+  },
+  "defillama_interface-social": {
+    "first_seen": "2026-03-16T18:09:15.403359"
+  },
+  "defillama_injective-spot": {
+    "first_seen": "2026-03-16T18:09:15.407792"
+  },
+  "defillama_lit.trade": {
+    "first_seen": "2026-03-16T18:09:15.413840"
+  },
+  "defillama_8dx": {
+    "first_seen": "2026-03-16T18:09:15.418875"
+  },
+  "defillama_courtyard": {
+    "first_seen": "2026-03-16T18:09:15.424587"
+  },
+  "defillama_xtrade-protocol-spot": {
+    "first_seen": "2026-03-16T18:09:15.430602"
+  },
+  "defillama_pacaswap-dex": {
+    "first_seen": "2026-03-16T18:09:15.435754"
+  },
+  "defillama_xtrade-protocol-perps": {
+    "first_seen": "2026-03-16T18:09:15.442231"
+  },
+  "defillama_metamask-usd": {
+    "first_seen": "2026-03-16T18:09:15.448729"
+  },
+  "defillama_lotus-finance": {
+    "first_seen": "2026-03-16T18:09:15.453668"
+  },
+  "defillama_salsadex": {
+    "first_seen": "2026-03-16T18:09:15.458626"
+  },
+  "defillama_quanto": {
+    "first_seen": "2026-03-16T18:09:15.464846"
+  },
+  "defillama_babydoge-perps": {
+    "first_seen": "2026-03-16T18:09:15.470936"
+  },
+  "defillama_aspecta-buildkey": {
+    "first_seen": "2026-03-16T18:09:15.477232"
+  },
+  "defillama_nodeops": {
+    "first_seen": "2026-03-16T18:09:15.483912"
+  },
+  "defillama_grvt-perps": {
+    "first_seen": "2026-03-16T18:09:15.489905"
+  },
+  "defillama_liquidmesh": {
+    "first_seen": "2026-03-16T18:09:15.496801"
+  },
+  "defillama_spookyswap-perps": {
+    "first_seen": "2026-03-16T18:09:15.502113"
+  },
+  "defillama_xpanse-perps": {
+    "first_seen": "2026-03-16T18:09:15.508722"
+  },
+  "defillama_lode": {
+    "first_seen": "2026-03-16T18:09:15.515765"
+  },
+  "defillama_treble-perps": {
+    "first_seen": "2026-03-16T18:09:15.520178"
+  },
+  "defillama_befi-perps": {
+    "first_seen": "2026-03-16T18:09:15.526641"
+  },
+  "defillama_gryps": {
+    "first_seen": "2026-03-16T18:09:15.532117"
+  },
+  "defillama_vibe-trading": {
+    "first_seen": "2026-03-16T18:09:15.540489"
+  },
+  "defillama_infinit": {
+    "first_seen": "2026-03-16T18:09:15.549739"
+  },
+  "defillama_fluxa": {
+    "first_seen": "2026-03-16T18:09:15.554364"
+  },
+  "defillama_cheapgm": {
+    "first_seen": "2026-03-16T18:09:15.561128"
+  },
+  "defillama_upheaval-spot-amm": {
+    "first_seen": "2026-03-16T18:09:15.567811"
+  },
+  "defillama_flowx-perps": {
+    "first_seen": "2026-03-16T18:09:15.576573"
+  },
+  "defillama_aquifer": {
+    "first_seen": "2026-03-16T18:09:15.582784"
+  },
+  "defillama_open-stablecoin-index": {
+    "first_seen": "2026-03-16T18:09:15.588336"
+  },
+  "defillama_ore-protocol": {
+    "first_seen": "2026-03-16T18:09:15.594482"
+  },
+  "defillama_pyth-entropy": {
+    "first_seen": "2026-03-16T18:09:15.601258"
+  },
+  "defillama_cripto-no-pix": {
+    "first_seen": "2026-03-16T18:09:15.607741"
+  },
+  "defillama_titan-exchange": {
+    "first_seen": "2026-03-16T18:09:15.614651"
+  },
+  "defillama_moneyx": {
+    "first_seen": "2026-03-16T18:09:15.619460"
+  },
+  "defillama_shroomy-protocol-swap": {
+    "first_seen": "2026-03-16T18:09:15.624443"
+  },
+  "defillama_movement-bridge": {
+    "first_seen": "2026-03-16T18:09:15.630494"
+  },
+  "defillama_doublezero-network": {
+    "first_seen": "2026-03-16T18:09:15.636750"
+  },
+  "defillama_carina": {
+    "first_seen": "2026-03-16T18:09:15.642420"
+  },
+  "defillama_hypersignals": {
+    "first_seen": "2026-03-16T18:09:15.647945"
+  },
+  "defillama_liminal-perps": {
+    "first_seen": "2026-03-16T18:09:15.654904"
+  },
+  "defillama_supercexy": {
+    "first_seen": "2026-03-16T18:09:15.660489"
+  },
+  "defillama_bullpen": {
+    "first_seen": "2026-03-16T18:09:15.665024"
+  },
+  "defillama_dflow-aggregator": {
+    "first_seen": "2026-03-16T18:09:15.671702"
+  },
+  "defillama_perpmate": {
+    "first_seen": "2026-03-16T18:09:15.677999"
+  },
+  "defillama_baumz": {
+    "first_seen": "2026-03-16T18:09:15.683478"
+  },
+  "defillama_kodiak-perps": {
+    "first_seen": "2026-03-16T18:09:15.688530"
+  },
+  "defillama_speedtrading": {
+    "first_seen": "2026-03-16T18:09:15.695225"
+  },
+  "defillama_aura-aggregator": {
+    "first_seen": "2026-03-16T18:09:15.700044"
+  },
+  "defillama_felix-perps": {
+    "first_seen": "2026-03-16T18:09:15.706819"
+  },
+  "defillama_tradexyz": {
+    "first_seen": "2026-03-16T18:09:15.712919"
+  },
+  "defillama_ventuals": {
+    "first_seen": "2026-03-16T18:09:15.719826"
+  },
+  "defillama_honeypot-finance": {
+    "first_seen": "2026-03-16T18:09:15.726662"
+  },
+  "defillama_spaace": {
+    "first_seen": "2026-03-16T18:09:15.733474"
+  },
+  "defillama_hivemapper": {
+    "first_seen": "2026-03-16T18:09:15.740292"
+  },
+  "defillama_godl-protocol": {
+    "first_seen": "2026-03-16T18:09:15.747192"
+  },
+  "defillama_upscale": {
+    "first_seen": "2026-03-16T18:09:15.753511"
+  },
+  "defillama_kuru-aggregator": {
+    "first_seen": "2026-03-16T18:09:15.760395"
+  },
+  "defillama_madhouse": {
+    "first_seen": "2026-03-16T18:09:15.765378"
+  },
+  "defillama_antfun": {
+    "first_seen": "2026-03-16T18:09:15.771447"
+  },
+  "defillama_gate-perp": {
+    "first_seen": "2026-03-16T18:09:15.778476"
+  },
+  "defillama_mynth": {
+    "first_seen": "2026-03-16T18:09:15.783306"
+  },
+  "defillama_zorb": {
+    "first_seen": "2026-03-16T18:09:15.789348"
+  },
+  "defillama_mon-bridge-dex": {
+    "first_seen": "2026-03-16T18:09:15.796441"
+  },
+  "defillama_fragment": {
+    "first_seen": "2026-03-16T18:09:15.801151"
+  },
+  "defillama_stable": {
+    "first_seen": "2026-03-16T18:09:15.807726"
+  },
+  "defillama_clober-perps": {
+    "first_seen": "2026-03-16T18:09:15.813229"
+  },
+  "defillama_hyena": {
+    "first_seen": "2026-03-16T18:09:15.818945"
+  },
+  "defillama_nado-perps": {
+    "first_seen": "2026-03-16T18:09:15.825702"
+  },
+  "defillama_liquidcore": {
+    "first_seen": "2026-03-16T18:09:15.832089"
+  },
+  "defillama_based-predict": {
+    "first_seen": "2026-03-16T18:09:15.839852"
+  },
+  "defillama_torodex": {
+    "first_seen": "2026-03-16T18:09:15.844299"
+  },
+  "defillama_tristero": {
+    "first_seen": "2026-03-16T18:09:15.851101"
+  },
+  "defillama_grayscale": {
+    "first_seen": "2026-03-16T18:09:15.857668"
+  },
+  "defillama_lighter-spot": {
+    "first_seen": "2026-03-16T18:09:15.866701"
+  },
+  "defillama_infinityname": {
+    "first_seen": "2026-03-16T18:09:15.874077"
+  },
+  "defillama_alphasec-spot": {
+    "first_seen": "2026-03-16T18:09:15.881050"
+  },
+  "defillama_dfdvsol": {
+    "first_seen": "2026-03-16T18:09:15.888147"
+  },
+  "defillama_forward-industries-sol": {
+    "first_seen": "2026-03-16T18:09:15.897061"
+  },
+  "defillama_backpack-sol": {
+    "first_seen": "2026-03-16T18:09:15.904296"
+  },
+  "defillama_gate-sol": {
+    "first_seen": "2026-03-16T18:09:15.913901"
+  },
+  "defillama_faith-protocol": {
+    "first_seen": "2026-03-16T18:09:15.923063"
+  },
+  "defillama_crystal-exchange": {
+    "first_seen": "2026-03-16T18:09:15.930111"
+  },
+  "defillama_dirol": {
+    "first_seen": "2026-03-16T18:09:15.939262"
+  },
+  "defillama_aur-protocol": {
+    "first_seen": "2026-03-16T18:09:15.948581"
+  },
+  "defillama_nickel": {
+    "first_seen": "2026-03-16T18:09:15.957846"
+  },
+  "defillama_omnihub": {
+    "first_seen": "2026-03-16T18:09:15.964879"
+  },
+  "defillama_possumlabs": {
+    "first_seen": "2026-03-16T18:09:15.972148"
+  },
+  "defillama_smolrefuel": {
+    "first_seen": "2026-03-16T18:09:15.982149"
+  },
+  "defillama_variational": {
+    "first_seen": "2026-03-16T18:09:15.990200"
+  },
+  "defillama_definity-staked-sol": {
+    "first_seen": "2026-03-16T18:09:15.997339"
+  },
+  "defillama_space-and-time": {
+    "first_seen": "2026-03-16T18:09:16.004502"
+  },
+  "defillama_o1.exchange": {
+    "first_seen": "2026-03-16T18:09:16.011621"
+  },
+  "defillama_bisonfi": {
+    "first_seen": "2026-03-16T18:09:16.019304"
+  },
+  "defillama_alphaq": {
+    "first_seen": "2026-03-16T18:09:16.026496"
+  },
+  "defillama_solfi-v2": {
+    "first_seen": "2026-03-16T18:09:16.033970"
+  },
+  "defillama_infinex-spot": {
+    "first_seen": "2026-03-16T18:09:16.042601"
+  },
+  "defillama_standx-perps": {
+    "first_seen": "2026-03-16T18:09:16.049789"
+  },
+  "defillama_groypfi": {
+    "first_seen": "2026-03-16T18:09:16.056958"
+  },
+  "defillama_barterswap-superposition": {
+    "first_seen": "2026-03-16T18:09:16.064612"
+  },
+  "defillama_chimpions-sol": {
+    "first_seen": "2026-03-16T18:09:16.071757"
+  },
+  "defillama_tephra": {
+    "first_seen": "2026-03-16T18:09:16.078610"
+  },
+  "defillama_oklong": {
+    "first_seen": "2026-03-16T18:09:16.083939"
+  },
+  "defillama_sunx": {
+    "first_seen": "2026-03-16T18:09:16.090297"
+  },
+  "defillama_rhea-cross-chain": {
+    "first_seen": "2026-03-16T18:09:16.097414"
+  },
+  "defillama_triggerx": {
+    "first_seen": "2026-03-16T18:09:16.102177"
+  },
+  "defillama_elfomofi": {
+    "first_seen": "2026-03-16T18:09:16.108962"
+  },
+  "defillama_onekey-perps": {
+    "first_seen": "2026-03-16T18:09:16.114996"
+  },
+  "defillama_gem-wallet-perps": {
+    "first_seen": "2026-03-16T18:09:16.121981"
+  },
+  "defillama_katoshi-perps": {
+    "first_seen": "2026-03-16T18:09:16.128583"
+  },
+  "defillama_metascalp-perps": {
+    "first_seen": "2026-03-16T18:09:16.134847"
+  },
+  "defillama_splash-wallet-perps": {
+    "first_seen": "2026-03-16T18:09:16.140688"
+  },
+  "defillama_tread.fi-perps": {
+    "first_seen": "2026-03-16T18:09:16.147555"
+  },
+  "defillama_standx-dusd": {
+    "first_seen": "2026-03-16T18:09:16.152055"
+  },
+  "defillama_stabble-clmm": {
+    "first_seen": "2026-03-16T18:09:16.158740"
+  },
+  "defillama_coin98-perps": {
+    "first_seen": "2026-03-16T18:09:16.163817"
+  },
+  "defillama_gtr.trade-perps": {
+    "first_seen": "2026-03-16T18:09:16.170761"
+  },
+  "defillama_hyprearn-perps": {
+    "first_seen": "2026-03-16T18:09:16.178177"
+  },
+  "defillama_moontrader-perps": {
+    "first_seen": "2026-03-16T18:09:16.185631"
+  },
+  "defillama_ranger-finance-perps": {
+    "first_seen": "2026-03-16T18:09:16.191162"
+  },
+  "defillama_senpi-perps": {
+    "first_seen": "2026-03-16T18:09:16.196772"
+  },
+  "defillama_supurr.app-perps": {
+    "first_seen": "2026-03-16T18:09:16.202656"
+  },
+  "defillama_unigox-perps": {
+    "first_seen": "2026-03-16T18:09:16.210069"
+  },
+  "defillama_coal": {
+    "first_seen": "2026-03-16T18:09:16.215844"
+  },
+  "defillama_playground": {
+    "first_seen": "2026-03-16T18:09:16.223157"
+  },
+  "defillama_sodex-perps": {
+    "first_seen": "2026-03-16T18:09:16.230783"
+  },
+  "defillama_sodex-spot": {
+    "first_seen": "2026-03-16T18:09:16.238161"
+  },
+  "defillama_flowbot-perps": {
+    "first_seen": "2026-03-16T18:09:16.245970"
+  },
+  "defillama_flowbot-prediction": {
+    "first_seen": "2026-03-16T18:09:16.253343"
+  },
+  "defillama_chapool": {
+    "first_seen": "2026-03-16T18:09:16.261096"
+  },
+  "defillama_bankr": {
+    "first_seen": "2026-03-16T18:09:16.267155"
+  },
+  "defillama_xeleb-protocol": {
+    "first_seen": "2026-03-16T18:09:16.274446"
+  },
+  "defillama_metadao-treasuries": {
+    "first_seen": "2026-03-16T18:09:16.281595"
+  },
+  "defillama_beaverbuild": {
+    "first_seen": "2026-03-16T18:09:16.287558"
+  },
+  "defillama_quasar-builder": {
+    "first_seen": "2026-03-16T18:09:16.294355"
+  },
+  "defillama_shimmerblocks": {
+    "first_seen": "2026-03-16T18:09:16.302485"
+  },
+  "defillama_titan-builder": {
+    "first_seen": "2026-03-16T18:09:16.307392"
+  },
+  "defillama_neptunehub": {
+    "first_seen": "2026-03-16T18:09:16.312455"
+  },
+  "defillama_01-exchange": {
+    "first_seen": "2026-03-16T18:09:16.318280"
+  },
+  "defillama_nanoport-aggregator": {
+    "first_seen": "2026-03-16T18:09:16.325260"
+  },
+  "defillama_solayer-card": {
+    "first_seen": "2026-03-16T18:09:16.332800"
+  },
+  "defillama_holyheld-card": {
+    "first_seen": "2026-03-16T18:09:16.341546"
+  },
+  "defillama_dexly-trade": {
+    "first_seen": "2026-03-16T18:09:16.347067"
+  },
+  "defillama_lunar-finance-aggregator": {
+    "first_seen": "2026-03-16T18:09:16.352635"
+  },
+  "defillama_lunar-finance-bridge-aggregator": {
+    "first_seen": "2026-03-16T18:09:16.360144"
+  },
+  "defillama_fwog.fun": {
+    "first_seen": "2026-03-16T18:09:16.367088"
+  },
+  "defillama_flashnet": {
+    "first_seen": "2026-03-16T18:09:16.373134"
+  },
+  "defillama_offshore-cash": {
+    "first_seen": "2026-03-16T18:09:16.381104"
+  },
+  "defillama_honeyplay-amm": {
+    "first_seen": "2026-03-16T18:09:16.387781"
+  },
+  "defillama_owockibot": {
+    "first_seen": "2026-03-16T18:09:16.395703"
+  },
+  "defillama_pumpclaw": {
+    "first_seen": "2026-03-16T18:09:16.403700"
+  },
+  "defillama_minebtc": {
+    "first_seen": "2026-03-16T18:09:16.410987"
+  },
+  "defillama_czt": {
+    "first_seen": "2026-03-16T18:09:16.418120"
+  },
+  "defillama_murasaki": {
+    "first_seen": "2026-03-16T18:09:16.425486"
+  },
+  "defillama_hikari-finance": {
+    "first_seen": "2026-03-16T18:09:16.431578"
+  },
+  "defillama_iota": {
+    "first_seen": "2026-03-16T18:09:16.438689"
+  },
+  "defillama_monad": {
+    "first_seen": "2026-03-16T18:09:16.446620"
+  },
+  "defillama_plasma": {
+    "first_seen": "2026-03-16T18:09:16.451584"
+  },
+  "defillama_grass": {
+    "first_seen": "2026-03-16T18:09:16.459373"
+  },
+  "defillama_world-markets-perps": {
+    "first_seen": "2026-03-16T18:09:16.464811"
+  },
+  "defillama_lamboo": {
+    "first_seen": "2026-03-16T18:09:16.471897"
+  },
+  "defillama_chimpx-ai-aggregator": {
+    "first_seen": "2026-03-16T18:09:16.479504"
+  },
+  "defillama_stableflow": {
+    "first_seen": "2026-03-16T18:09:16.484562"
+  },
+  "defillama_honeyplay-marketplace": {
+    "first_seen": "2026-03-16T18:09:16.490726"
+  },
+  "defillama_minswap-aggregator": {
+    "first_seen": "2026-03-16T18:09:16.498667"
+  },
+  "defillama_pyth-core": {
+    "first_seen": "2026-03-16T18:09:16.516139"
+  },
+  "defillama_pyth-pro": {
+    "first_seen": "2026-03-16T18:09:16.535909"
+  },
+  "defillama_inoswap": {
+    "first_seen": "2026-03-16T18:09:16.549449"
+  },
+  "defillama_minebean": {
+    "first_seen": "2026-03-16T18:09:16.563716"
+  },
+  "defillama_moonbot": {
+    "first_seen": "2026-03-16T18:09:16.572197"
+  },
+  "defillama_aave-labs": {
+    "first_seen": "2026-03-16T18:09:16.588528"
+  },
+  "defillama_pumpspace-v3": {
+    "first_seen": "2026-03-16T18:09:16.600205"
+  },
+  "defillama_tideswap-aggregator": {
+    "first_seen": "2026-03-16T18:09:16.605379"
+  },
+  "defillama_otomate": {
+    "first_seen": "2026-03-16T18:09:16.612275"
+  },
+  "defillama_caliber": {
+    "first_seen": "2026-03-16T18:09:16.616959"
+  },
+  "defillama_barterswap-solver": {
+    "first_seen": "2026-03-16T18:09:16.623148"
+  },
+  "defillama_harmonic": {
+    "first_seen": "2026-03-16T18:09:16.630137"
+  },
+  "defillama_solvr": {
+    "first_seen": "2026-03-16T18:09:16.635320"
+  },
+  "defillama_neony-exchange-spot": {
+    "first_seen": "2026-03-16T18:09:16.642772"
+  },
+  "defillama_aftermath-perps": {
+    "first_seen": "2026-03-16T18:09:16.648548"
+  },
+  "defillama_bitchemical": {
+    "first_seen": "2026-03-16T18:09:16.654775"
+  },
+  "defillama_perptools": {
+    "first_seen": "2026-03-16T18:09:16.662265"
+  },
+  "defillama_pigeonhouse": {
+    "first_seen": "2026-03-16T18:09:16.668778"
+  },
+  "defillama_taco": {
+    "first_seen": "2026-03-16T18:09:16.676354"
+  },
+  "defillama_neony-exchange-bridge": {
+    "first_seen": "2026-03-16T18:09:16.683701"
+  },
+  "coingecko_pudgy-penguins": {
+    "first_seen": "2026-03-16T18:09:19.189804"
+  },
+  "coingecko_hyperliquid": {
+    "first_seen": "2026-03-16T18:09:21.495481"
+  },
+  "coingecko_bitcoin": {
+    "first_seen": "2026-03-16T18:09:23.816882"
+  },
+  "coingecko_centrifuge-2": {
+    "first_seen": "2026-03-16T18:09:26.086159"
+  },
+  "coingecko_bittensor": {
+    "first_seen": "2026-03-16T18:09:28.376996"
+  },
+  "coingecko_trending_pepe": {
+    "first_seen": "2026-03-16T18:09:30.389867"
+  },
+  "coingecko_trending_fetch-ai": {
+    "first_seen": "2026-03-16T18:09:32.401715"
+  },
+  "coingecko_trending_ethereum": {
+    "first_seen": "2026-03-16T18:09:34.413395"
+  },
+  "coingecko_trending_ripple": {
+    "first_seen": "2026-03-16T18:09:36.424776"
+  },
+  "coingecko_trending_solana": {
+    "first_seen": "2026-03-16T18:09:38.436757"
+  },
+  "coingecko_trending_sui": {
+    "first_seen": "2026-03-16T18:09:40.456785"
+  },
+  "coingecko_trending_wiki-cat": {
+    "first_seen": "2026-03-16T18:09:42.467819"
+  },
+  "coingecko_trending_layerzero": {
+    "first_seen": "2026-03-16T18:09:44.479492"
+  },
+  "coingecko_trending_zcash": {
+    "first_seen": "2026-03-16T18:09:46.490895"
+  },
+  "coingecko_trending_aave": {
+    "first_seen": "2026-03-16T18:09:48.504203"
+  },
+  "news_1593475772": {
+    "first_seen": "2026-03-16T18:09:48.821555"
+  },
+  "news_4240874733": {
+    "first_seen": "2026-03-16T18:09:48.826955"
+  },
+  "news_3993543917": {
+    "first_seen": "2026-03-16T18:09:48.832902"
+  },
+  "news_2424896080": {
+    "first_seen": "2026-03-16T18:09:48.837756"
+  },
+  "news_2379581284": {
+    "first_seen": "2026-03-16T18:09:48.843463"
+  },
+  "news_2488869746": {
+    "first_seen": "2026-03-16T18:09:48.848290"
+  },
+  "news_982541718": {
+    "first_seen": "2026-03-16T18:09:48.854569"
+  },
+  "news_2630683252": {
+    "first_seen": "2026-03-16T18:09:48.860339"
+  },
+  "news_453879560": {
+    "first_seen": "2026-03-16T18:09:48.868103"
+  },
+  "news_3774799584": {
+    "first_seen": "2026-03-16T18:09:48.875992"
+  },
+  "news_2140010836": {
+    "first_seen": "2026-03-16T18:09:48.882047"
+  },
+  "news_1582961062": {
+    "first_seen": "2026-03-16T18:09:48.890089"
+  },
+  "news_520147412": {
+    "first_seen": "2026-03-16T18:09:48.897189"
+  },
+  "news_196416100": {
+    "first_seen": "2026-03-16T18:09:48.903540"
+  },
+  "news_1745610359": {
+    "first_seen": "2026-03-16T18:09:48.985406"
+  },
+  "news_128089638": {
+    "first_seen": "2026-03-16T18:09:48.991185"
+  },
+  "news_3220061229": {
+    "first_seen": "2026-03-16T18:09:48.998934"
+  },
+  "news_3651192090": {
+    "first_seen": "2026-03-16T18:09:49.005953"
+  },
+  "news_613348565": {
+    "first_seen": "2026-03-16T18:09:49.011225"
+  },
+  "news_1990961592": {
+    "first_seen": "2026-03-16T18:09:49.017636"
+  },
+  "news_1290203987": {
+    "first_seen": "2026-03-16T18:09:49.022548"
+  },
+  "news_265865047": {
+    "first_seen": "2026-03-16T18:09:49.028811"
+  },
+  "news_1333703346": {
+    "first_seen": "2026-03-16T18:09:49.036487"
+  },
+  "news_1702996204": {
+    "first_seen": "2026-03-16T18:09:49.044551"
+  },
+  "news_3144030595": {
+    "first_seen": "2026-03-16T18:09:49.052693"
+  },
+  "news_1175003732": {
+    "first_seen": "2026-03-16T18:09:49.060801"
+  },
+  "news_68200056": {
+    "first_seen": "2026-03-16T18:09:49.202564"
+  },
+  "news_2608641836": {
+    "first_seen": "2026-03-16T18:09:49.208460"
+  },
+  "news_1627102804": {
+    "first_seen": "2026-03-16T18:09:49.214117"
+  },
+  "news_228945507": {
+    "first_seen": "2026-03-16T18:09:49.219821"
+  },
+  "news_4245846901": {
+    "first_seen": "2026-03-16T18:09:49.224687"
+  },
+  "news_1468410261": {
+    "first_seen": "2026-03-16T18:09:49.232119"
+  },
+  "news_502787849": {
+    "first_seen": "2026-03-16T18:09:49.240148"
+  },
+  "news_3852854132": {
+    "first_seen": "2026-03-16T18:09:49.248672"
+  },
+  "news_544684987": {
+    "first_seen": "2026-03-16T18:09:49.255944"
+  },
+  "news_1194871531": {
+    "first_seen": "2026-03-16T18:09:49.261897"
+  },
+  "news_3868519260": {
+    "first_seen": "2026-03-16T18:09:49.873993"
+  },
+  "news_2015563290": {
+    "first_seen": "2026-03-16T18:09:49.879093"
+  },
+  "news_163434072": {
+    "first_seen": "2026-03-16T18:09:49.885217"
+  },
+  "news_2452066083": {
+    "first_seen": "2026-03-16T18:09:49.890175"
+  },
+  "news_3779386363": {
+    "first_seen": "2026-03-16T18:09:49.896084"
+  },
+  "news_4131529524": {
+    "first_seen": "2026-03-16T18:09:49.900985"
+  },
+  "news_3491386498": {
+    "first_seen": "2026-03-16T18:09:49.907706"
+  },
+  "news_3987900721": {
+    "first_seen": "2026-03-16T18:09:49.914879"
+  },
+  "news_4236206762": {
+    "first_seen": "2026-03-16T18:09:49.922165"
+  },
+  "news_3535109730": {
+    "first_seen": "2026-03-16T18:09:49.930237"
+  },
+  "news_181737581": {
+    "first_seen": "2026-03-16T18:09:49.938589"
+  },
+  "news_25763384": {
+    "first_seen": "2026-03-16T18:09:49.944816"
+  },
+  "news_201494064": {
+    "first_seen": "2026-03-16T18:09:49.952852"
+  },
+  "news_2948117193": {
+    "first_seen": "2026-03-16T18:09:49.960946"
+  },
+  "news_2478927786": {
+    "first_seen": "2026-03-16T18:09:49.969892"
+  },
+  "news_10782701": {
+    "first_seen": "2026-03-16T18:09:49.979517"
+  },
+  "news_1452426400": {
+    "first_seen": "2026-03-16T18:09:49.984512"
+  },
+  "news_783669570": {
+    "first_seen": "2026-03-16T18:09:49.991847"
+  },
+  "news_1534022156": {
+    "first_seen": "2026-03-16T18:09:49.997532"
+  },
+  "news_2407675307": {
+    "first_seen": "2026-03-16T18:09:50.004716"
+  },
+  "news_1844984635": {
+    "first_seen": "2026-03-16T18:09:50.012673"
+  },
+  "news_3334602573": {
+    "first_seen": "2026-03-16T18:09:50.020858"
+  },
+  "news_1896581018": {
+    "first_seen": "2026-03-16T18:09:50.028844"
+  },
+  "news_2686626222": {
+    "first_seen": "2026-03-16T18:09:50.035977"
+  },
+  "news_2405882152": {
+    "first_seen": "2026-03-16T18:09:50.042469"
+  },
+  "news_2115506399": {
+    "first_seen": "2026-03-16T18:09:50.290799"
+  },
+  "news_2613171301": {
+    "first_seen": "2026-03-16T18:09:50.296567"
+  },
+  "news_4139963184": {
+    "first_seen": "2026-03-16T18:09:50.303130"
+  },
+  "news_3369410752": {
+    "first_seen": "2026-03-16T18:09:50.308810"
+  },
+  "news_529615992": {
+    "first_seen": "2026-03-16T18:09:50.315937"
+  },
+  "news_1216306600": {
+    "first_seen": "2026-03-16T18:09:50.321261"
+  },
+  "news_1076680262": {
+    "first_seen": "2026-03-16T18:09:50.328259"
+  },
+  "news_289680099": {
+    "first_seen": "2026-03-16T18:09:50.336300"
+  },
+  "news_4010349746": {
+    "first_seen": "2026-03-16T18:09:50.344809"
+  },
+  "news_1518727130": {
+    "first_seen": "2026-03-16T18:09:50.353267"
+  },
+  "news_1213203529": {
+    "first_seen": "2026-03-16T18:09:50.361611"
+  },
+  "news_720510170": {
+    "first_seen": "2026-03-16T18:09:50.368774"
+  },
+  "news_2604330460": {
+    "first_seen": "2026-03-16T18:09:51.477823"
+  },
+  "news_61019144": {
+    "first_seen": "2026-03-16T18:09:51.483934"
+  },
+  "news_3338323273": {
+    "first_seen": "2026-03-16T18:09:51.858110"
+  },
+  "news_3823361514": {
+    "first_seen": "2026-03-16T18:09:51.864097"
+  },
+  "news_557224295": {
+    "first_seen": "2026-03-16T18:09:51.870413"
+  },
+  "news_1553325286": {
+    "first_seen": "2026-03-16T18:09:51.876995"
+  },
+  "news_2112879109": {
+    "first_seen": "2026-03-16T18:09:51.883886"
+  },
+  "news_2797492989": {
+    "first_seen": "2026-03-16T18:09:51.890063"
+  },
+  "github_1179218987": {
+    "first_seen": "2026-03-16T18:09:54.729409"
+  },
+  "github_1180733623": {
+    "first_seen": "2026-03-16T18:09:54.734781"
+  },
+  "github_1182509329": {
+    "first_seen": "2026-03-16T18:09:54.739968"
+  },
+  "github_1179662446": {
+    "first_seen": "2026-03-16T18:09:54.746811"
+  },
+  "github_1179377473": {
+    "first_seen": "2026-03-16T18:09:54.752579"
+  },
+  "github_1183246306": {
+    "first_seen": "2026-03-16T18:10:01.429104"
+  },
+  "airdrop_226054997": {
+    "first_seen": "2026-03-16T18:11:22.642957"
+  },
+  "airdrop_2412387805": {
+    "first_seen": "2026-03-16T18:11:22.648171"
+  },
+  "airdrop_2496593223": {
+    "first_seen": "2026-03-16T18:11:22.657452"
+  },
+  "airdrop_3888954145": {
+    "first_seen": "2026-03-16T18:11:22.663728"
+  },
+  "airdrop_142775772": {
+    "first_seen": "2026-03-16T18:11:22.668640"
+  },
+  "airdrop_3660845358": {
+    "first_seen": "2026-03-16T18:11:22.675028"
+  },
+  "airdrop_586746965": {
+    "first_seen": "2026-03-16T18:11:22.679991"
+  },
+  "airdrop_795250242": {
+    "first_seen": "2026-03-16T18:11:22.686256"
+  },
+  "airdrop_3699804497": {
+    "first_seen": "2026-03-16T18:11:22.691272"
+  },
+  "airdrop_2098938554": {
+    "first_seen": "2026-03-16T18:11:22.697125"
+  },
+  "airdrop_2829837896": {
+    "first_seen": "2026-03-16T18:11:22.702116"
+  },
+  "airdrop_2202287770": {
+    "first_seen": "2026-03-16T18:11:22.708333"
+  },
+  "airdrop_564109298": {
+    "first_seen": "2026-03-16T18:11:22.713379"
+  },
+  "airdrop_1401567105": {
+    "first_seen": "2026-03-16T18:11:22.722725"
+  },
+  "coingecko_fetch-ai": {
+    "first_seen": "2026-03-16T18:11:31.676882"
+  },
+  "coingecko_trending_centrifuge-2": {
+    "first_seen": "2026-03-16T18:11:38.293724"
+  },
+  "coingecko_trending_pi-network": {
+    "first_seen": "2026-03-16T18:11:52.352234"
+  },
+  "news_3294274438": {
+    "first_seen": "2026-03-16T18:11:56.492140"
+  },
+  "news_2274705885": {
+    "first_seen": "2026-03-16T18:11:56.497526"
+  },
+  "news_3257880801": {
+    "first_seen": "2026-03-16T18:11:56.504715"
+  },
+  "news_3617915636": {
+    "first_seen": "2026-03-16T18:11:56.511027"
+  },
+  "news_937485205": {
+    "first_seen": "2026-03-16T18:11:56.518587"
+  },
+  "news_2429662683": {
+    "first_seen": "2026-03-16T18:11:56.524250"
+  },
+  "news_175599284": {
+    "first_seen": "2026-03-16T18:11:56.531336"
+  },
+  "news_1377598060": {
+    "first_seen": "2026-03-16T18:11:56.536552"
+  },
+  "news_1881701386": {
+    "first_seen": "2026-03-16T18:11:56.544051"
+  },
+  "news_4258931078": {
+    "first_seen": "2026-03-16T18:11:56.551298"
+  },
+  "news_1641067357": {
+    "first_seen": "2026-03-16T18:11:56.559344"
+  },
+  "news_1813201392": {
+    "first_seen": "2026-03-16T18:11:56.565238"
+  },
+  "news_3896992825": {
+    "first_seen": "2026-03-16T18:11:56.573129"
+  },
+  "news_823871349": {
+    "first_seen": "2026-03-16T18:11:56.580780"
+  },
+  "news_1645259682": {
+    "first_seen": "2026-03-16T18:11:56.660528"
+  },
+  "news_302045762": {
+    "first_seen": "2026-03-16T18:11:56.666511"
+  },
+  "news_2406691623": {
+    "first_seen": "2026-03-16T18:11:56.673200"
+  },
+  "news_2718205474": {
+    "first_seen": "2026-03-16T18:11:56.681495"
+  },
+  "news_3972088619": {
+    "first_seen": "2026-03-16T18:11:56.689087"
+  },
+  "news_1898317943": {
+    "first_seen": "2026-03-16T18:11:56.696950"
+  },
+  "news_3093839585": {
+    "first_seen": "2026-03-16T18:11:56.702263"
+  },
+  "news_1358690456": {
+    "first_seen": "2026-03-16T18:11:56.710306"
+  },
+  "news_3915930453": {
+    "first_seen": "2026-03-16T18:11:56.718901"
+  },
+  "news_1384902284": {
+    "first_seen": "2026-03-16T18:11:56.727301"
+  },
+  "news_2600213751": {
+    "first_seen": "2026-03-16T18:11:56.732799"
+  },
+  "news_3472864779": {
+    "first_seen": "2026-03-16T18:11:56.740124"
+  },
+  "news_3556956329": {
+    "first_seen": "2026-03-16T18:11:56.869055"
+  },
+  "news_2806567884": {
+    "first_seen": "2026-03-16T18:11:56.876247"
+  },
+  "news_1837678103": {
+    "first_seen": "2026-03-16T18:11:56.882546"
+  },
+  "news_3754203113": {
+    "first_seen": "2026-03-16T18:11:56.888964"
+  },
+  "news_2030217875": {
+    "first_seen": "2026-03-16T18:11:56.896434"
+  },
+  "news_3756726977": {
+    "first_seen": "2026-03-16T18:11:56.906036"
+  },
+  "news_261391880": {
+    "first_seen": "2026-03-16T18:11:56.913507"
+  },
+  "news_4251807442": {
+    "first_seen": "2026-03-16T18:11:56.920781"
+  },
+  "news_3285377358": {
+    "first_seen": "2026-03-16T18:11:56.928078"
+  },
+  "news_3369875853": {
+    "first_seen": "2026-03-16T18:11:56.934291"
+  },
+  "news_244795750": {
+    "first_seen": "2026-03-16T18:11:57.448351"
+  },
+  "news_4185413917": {
+    "first_seen": "2026-03-16T18:11:57.453758"
+  },
+  "news_2450010435": {
+    "first_seen": "2026-03-16T18:11:57.461287"
+  },
+  "news_1684958374": {
+    "first_seen": "2026-03-16T18:11:57.466567"
+  },
+  "news_2268679543": {
+    "first_seen": "2026-03-16T18:11:57.474374"
+  },
+  "news_294476640": {
+    "first_seen": "2026-03-16T18:11:57.480163"
+  },
+  "news_2171950751": {
+    "first_seen": "2026-03-16T18:11:57.486964"
+  },
+  "news_1973327546": {
+    "first_seen": "2026-03-16T18:11:57.492767"
+  },
+  "news_3942989841": {
+    "first_seen": "2026-03-16T18:11:57.499812"
+  },
+  "news_2137433339": {
+    "first_seen": "2026-03-16T18:11:57.505127"
+  },
+  "news_777187411": {
+    "first_seen": "2026-03-16T18:11:57.513966"
+  },
+  "news_1302390434": {
+    "first_seen": "2026-03-16T18:11:57.521928"
+  },
+  "news_2001551797": {
+    "first_seen": "2026-03-16T18:11:57.527450"
+  },
+  "news_475530357": {
+    "first_seen": "2026-03-16T18:11:57.534296"
+  },
+  "news_2928790826": {
+    "first_seen": "2026-03-16T18:11:57.542663"
+  },
+  "news_3455429776": {
+    "first_seen": "2026-03-16T18:11:57.549965"
+  },
+  "news_3302644020": {
+    "first_seen": "2026-03-16T18:11:57.558353"
+  },
+  "news_1034561926": {
+    "first_seen": "2026-03-16T18:11:57.563683"
+  },
+  "news_522169123": {
+    "first_seen": "2026-03-16T18:11:57.574571"
+  },
+  "news_3501325532": {
+    "first_seen": "2026-03-16T18:11:57.582263"
+  },
+  "news_3789654462": {
+    "first_seen": "2026-03-16T18:11:57.588051"
+  },
+  "news_987997243": {
+    "first_seen": "2026-03-16T18:11:57.595142"
+  },
+  "news_4045903380": {
+    "first_seen": "2026-03-16T18:11:57.601419"
+  },
+  "news_188843379": {
+    "first_seen": "2026-03-16T18:11:57.609984"
+  },
+  "news_2428379265": {
+    "first_seen": "2026-03-16T18:11:57.620718"
+  },
+  "news_3001747528": {
+    "first_seen": "2026-03-16T18:11:57.726274"
+  },
+  "news_614958786": {
+    "first_seen": "2026-03-16T18:11:57.734888"
+  },
+  "news_716061925": {
+    "first_seen": "2026-03-16T18:11:57.741300"
+  },
+  "news_1894430216": {
+    "first_seen": "2026-03-16T18:11:57.747542"
+  },
+  "news_2504102312": {
+    "first_seen": "2026-03-16T18:11:57.754611"
+  },
+  "news_3314024231": {
+    "first_seen": "2026-03-16T18:11:57.763515"
+  },
+  "news_3491493230": {
+    "first_seen": "2026-03-16T18:11:57.770708"
+  },
+  "news_893949832": {
+    "first_seen": "2026-03-16T18:11:57.776896"
+  },
+  "news_26221916": {
+    "first_seen": "2026-03-16T18:11:57.784603"
+  },
+  "news_1654524740": {
+    "first_seen": "2026-03-16T18:11:57.793586"
+  },
+  "news_4123890907": {
+    "first_seen": "2026-03-16T18:11:57.799622"
+  },
+  "news_979840290": {
+    "first_seen": "2026-03-16T18:11:57.808136"
+  },
+  "news_427677540": {
+    "first_seen": "2026-03-16T18:11:59.024602"
+  },
+  "news_3495690273": {
+    "first_seen": "2026-03-16T18:11:59.035658"
+  },
+  "news_3358331849": {
+    "first_seen": "2026-03-16T18:11:59.059081"
+  },
+  "news_297968180": {
+    "first_seen": "2026-03-16T18:11:59.320770"
+  },
+  "news_1050911510": {
+    "first_seen": "2026-03-16T18:11:59.338663"
+  },
+  "news_304087165": {
+    "first_seen": "2026-03-16T18:11:59.353790"
+  },
+  "news_3432618473": {
+    "first_seen": "2026-03-16T18:11:59.372471"
+  },
+  "news_2083239232": {
+    "first_seen": "2026-03-16T18:11:59.390486"
+  },
+  "news_2813763535": {
+    "first_seen": "2026-03-16T18:11:59.409475"
+  },
+  "airdrop_2079745167": {
+    "first_seen": "2026-03-16T18:17:40.256705"
+  },
+  "airdrop_367741684": {
+    "first_seen": "2026-03-16T18:17:40.262856"
+  },
+  "airdrop_2774706734": {
+    "first_seen": "2026-03-16T18:17:40.272453"
+  },
+  "airdrop_2323457179": {
+    "first_seen": "2026-03-16T18:17:40.279455"
+  },
+  "airdrop_3003454769": {
+    "first_seen": "2026-03-16T18:17:40.284812"
+  },
+  "airdrop_2319742523": {
+    "first_seen": "2026-03-16T18:17:40.291671"
+  },
+  "airdrop_492968793": {
+    "first_seen": "2026-03-16T18:17:40.298775"
+  },
+  "airdrop_2863430913": {
+    "first_seen": "2026-03-16T18:17:40.304357"
+  },
+  "airdrop_3580201285": {
+    "first_seen": "2026-03-16T18:17:40.312630"
+  },
+  "airdrop_1743652484": {
+    "first_seen": "2026-03-16T18:17:40.319702"
+  },
+  "airdrop_2858897994": {
+    "first_seen": "2026-03-16T18:17:40.326389"
+  },
+  "airdrop_2187619815": {
+    "first_seen": "2026-03-16T18:17:40.333252"
+  },
+  "airdrop_3661461283": {
+    "first_seen": "2026-03-16T18:17:40.340833"
+  },
+  "airdrop_2807610521": {
+    "first_seen": "2026-03-16T18:17:40.352943"
+  },
+  "news_596317618": {
+    "first_seen": "2026-03-16T18:18:14.145297"
+  },
+  "news_1204920440": {
+    "first_seen": "2026-03-16T18:18:14.157317"
+  },
+  "news_2358302841": {
+    "first_seen": "2026-03-16T18:18:14.169225"
+  },
+  "news_3307336212": {
+    "first_seen": "2026-03-16T18:18:14.175657"
+  },
+  "news_3679381834": {
+    "first_seen": "2026-03-16T18:18:14.182359"
+  },
+  "news_729365429": {
+    "first_seen": "2026-03-16T18:18:14.189172"
+  },
+  "news_2498932708": {
+    "first_seen": "2026-03-16T18:18:14.196049"
+  },
+  "news_410919365": {
+    "first_seen": "2026-03-16T18:18:14.204719"
+  },
+  "news_1663510469": {
+    "first_seen": "2026-03-16T18:18:14.213385"
+  },
+  "news_3893022884": {
+    "first_seen": "2026-03-16T18:18:14.219983"
+  },
+  "news_3576067983": {
+    "first_seen": "2026-03-16T18:18:14.227344"
+  },
+  "news_1794525227": {
+    "first_seen": "2026-03-16T18:18:14.233099"
+  },
+  "news_2732101010": {
+    "first_seen": "2026-03-16T18:18:14.242277"
+  },
+  "news_2708658980": {
+    "first_seen": "2026-03-16T18:18:14.247863"
+  },
+  "news_3962946947": {
+    "first_seen": "2026-03-16T18:18:14.350467"
+  },
+  "news_3764402451": {
+    "first_seen": "2026-03-16T18:18:14.359597"
+  },
+  "news_3247358548": {
+    "first_seen": "2026-03-16T18:18:14.368747"
+  },
+  "news_1857744448": {
+    "first_seen": "2026-03-16T18:18:14.378362"
+  },
+  "news_1530367436": {
+    "first_seen": "2026-03-16T18:18:14.387728"
+  },
+  "news_198112791": {
+    "first_seen": "2026-03-16T18:18:14.397135"
+  },
+  "news_401837238": {
+    "first_seen": "2026-03-16T18:18:14.407674"
+  },
+  "news_457676119": {
+    "first_seen": "2026-03-16T18:18:14.418243"
+  },
+  "news_192740425": {
+    "first_seen": "2026-03-16T18:18:14.428651"
+  },
+  "news_1436969863": {
+    "first_seen": "2026-03-16T18:18:14.438125"
+  },
+  "news_2215081510": {
+    "first_seen": "2026-03-16T18:18:14.447371"
+  },
+  "news_101402561": {
+    "first_seen": "2026-03-16T18:18:14.455358"
+  },
+  "news_1660530744": {
+    "first_seen": "2026-03-16T18:18:14.553754"
+  },
+  "news_963334124": {
+    "first_seen": "2026-03-16T18:18:14.560160"
+  },
+  "news_4528533": {
+    "first_seen": "2026-03-16T18:18:14.569163"
+  },
+  "news_1362308738": {
+    "first_seen": "2026-03-16T18:18:14.577860"
+  },
+  "news_3717342647": {
+    "first_seen": "2026-03-16T18:18:14.583531"
+  },
+  "news_3869781729": {
+    "first_seen": "2026-03-16T18:18:14.592891"
+  },
+  "news_3854892927": {
+    "first_seen": "2026-03-16T18:18:14.601231"
+  },
+  "news_1608843866": {
+    "first_seen": "2026-03-16T18:18:14.608130"
+  },
+  "news_1772309052": {
+    "first_seen": "2026-03-16T18:18:14.616867"
+  },
+  "news_2531224270": {
+    "first_seen": "2026-03-16T18:18:14.626164"
+  },
+  "news_920359534": {
+    "first_seen": "2026-03-16T18:18:15.280722"
+  },
+  "news_3446277512": {
+    "first_seen": "2026-03-16T18:18:15.287098"
+  },
+  "news_2197699192": {
+    "first_seen": "2026-03-16T18:18:15.294393"
+  },
+  "news_879527104": {
+    "first_seen": "2026-03-16T18:18:15.300672"
+  },
+  "news_3155210998": {
+    "first_seen": "2026-03-16T18:18:15.308372"
+  },
+  "news_3721757773": {
+    "first_seen": "2026-03-16T18:18:15.314321"
+  },
+  "news_519777425": {
+    "first_seen": "2026-03-16T18:18:15.322087"
+  },
+  "news_846807893": {
+    "first_seen": "2026-03-16T18:18:15.328402"
+  },
+  "news_3450230067": {
+    "first_seen": "2026-03-16T18:18:15.337422"
+  },
+  "news_30058027": {
+    "first_seen": "2026-03-16T18:18:15.343862"
+  },
+  "news_4288263389": {
+    "first_seen": "2026-03-16T18:18:15.350880"
+  },
+  "news_4006665623": {
+    "first_seen": "2026-03-16T18:18:15.358130"
+  },
+  "news_4026845229": {
+    "first_seen": "2026-03-16T18:18:15.367058"
+  },
+  "news_778727581": {
+    "first_seen": "2026-03-16T18:18:15.372995"
+  },
+  "news_4190272008": {
+    "first_seen": "2026-03-16T18:18:15.382577"
+  },
+  "news_3134594560": {
+    "first_seen": "2026-03-16T18:18:15.388735"
+  },
+  "news_742889472": {
+    "first_seen": "2026-03-16T18:18:15.398323"
+  },
+  "news_3026491455": {
+    "first_seen": "2026-03-16T18:18:15.404943"
+  },
+  "news_1761370068": {
+    "first_seen": "2026-03-16T18:18:15.411907"
+  },
+  "news_2216647428": {
+    "first_seen": "2026-03-16T18:18:15.418514"
+  },
+  "news_1852006238": {
+    "first_seen": "2026-03-16T18:18:15.426607"
+  },
+  "news_3120906642": {
+    "first_seen": "2026-03-16T18:18:15.434522"
+  },
+  "news_1208810889": {
+    "first_seen": "2026-03-16T18:18:15.440666"
+  },
+  "news_3613809834": {
+    "first_seen": "2026-03-16T18:18:15.448336"
+  },
+  "news_33338094": {
+    "first_seen": "2026-03-16T18:18:15.454253"
+  },
+  "news_4198124128": {
+    "first_seen": "2026-03-16T18:18:15.544158"
+  },
+  "news_1986676310": {
+    "first_seen": "2026-03-16T18:18:15.553131"
+  },
+  "news_3427355224": {
+    "first_seen": "2026-03-16T18:18:15.559627"
+  },
+  "news_3639867207": {
+    "first_seen": "2026-03-16T18:18:15.566729"
+  },
+  "news_3670424797": {
+    "first_seen": "2026-03-16T18:18:15.575471"
+  },
+  "news_3818323361": {
+    "first_seen": "2026-03-16T18:18:15.582071"
+  },
+  "news_929549769": {
+    "first_seen": "2026-03-16T18:18:15.589125"
+  },
+  "news_1127896057": {
+    "first_seen": "2026-03-16T18:18:15.596430"
+  },
+  "news_13250715": {
+    "first_seen": "2026-03-16T18:18:15.604981"
+  },
+  "news_1915373029": {
+    "first_seen": "2026-03-16T18:18:15.611573"
+  },
+  "news_1798164905": {
+    "first_seen": "2026-03-16T18:18:15.618798"
+  },
+  "news_2221464003": {
+    "first_seen": "2026-03-16T18:18:15.625490"
+  },
+  "news_2939092018": {
+    "first_seen": "2026-03-16T18:18:16.586078"
+  },
+  "news_2188011000": {
+    "first_seen": "2026-03-16T18:18:16.594389"
+  },
+  "news_2095880817": {
+    "first_seen": "2026-03-16T18:18:16.602054"
+  },
+  "news_3400201642": {
+    "first_seen": "2026-03-16T18:18:16.798231"
+  },
+  "news_3713407118": {
+    "first_seen": "2026-03-16T18:18:16.805566"
+  },
+  "news_3414622674": {
+    "first_seen": "2026-03-16T18:18:16.811601"
+  },
+  "news_3407130867": {
+    "first_seen": "2026-03-16T18:18:16.819630"
+  },
+  "news_813668102": {
+    "first_seen": "2026-03-16T18:18:16.826379"
+  },
+  "news_2213113128": {
+    "first_seen": "2026-03-16T18:18:16.833425"
+  }
+}

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variable files — NEVER commit these
+.env
+.env.local
+.env.*.local
+secrets.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.run-logs/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# NOTE: data/seen.json is intentionally tracked by git
+# because it stores deduplication state between CI runs.
+# DO NOT add data/ to .gitignore.

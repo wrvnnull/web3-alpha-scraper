@@ -1,0 +1,42 @@
+# .github/workflows/weekly_digest.yml
+#
+# Sends a weekly summary digest to Telegram every Monday at 09:00 UTC.
+# This gives you a high-level overview of the week's discovered projects
+# and lets you review anything the score filter might have hidden.
+#
+# The digest uses the same seen.json data — it reads the file and
+# generates statistics about what was found in the past 7 days.
+
+name: Weekly Digest
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # Every Monday at 09:00 UTC
+  workflow_dispatch:        # Allow manual trigger
+
+jobs:
+  digest:
+    name: "Send Weekly Digest"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send weekly digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python weekly_digest.py
