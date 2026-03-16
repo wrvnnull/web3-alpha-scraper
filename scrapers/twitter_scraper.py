@@ -1,33 +1,12 @@
 """
-scrapers/twitter_scraper.py — Twitter/X Scraper
--------------------------------------------------
-Twitter/X is the most REAL-TIME source for Web3 alpha — projects announce
-testnets, point campaigns, and airdrops here before anywhere else.
-Unfortunately, the official API now requires a paid plan ($100+/month).
+scrapers/twitter_scraper.py — Twitter Alpha via Google News RSS
+----------------------------------------------------------------
+Nitter sudah mati total. Kita pakai Google News RSS sebagai proxy.
 
-We offer three approaches here:
-  
-  APPROACH A (Default, Free): Nitter RSS
-  ----------------------------------------
-  Nitter is an open-source Twitter front-end that exposes RSS feeds for
-  any public account or search. We target well-known alpha-sharing accounts
-  and search feeds for our keywords. This works as long as public Nitter
-  instances are available.
-
-  APPROACH B (Optional, Free): snscrape CLI
-  -------------------------------------------
-  snscrape is a Python library/CLI that scrapes Twitter without an API key.
-  It mimics a browser session. Reliable but slower. Uncomment the
-  SNSCRAPE section below to enable it.
-
-  APPROACH C (Best, $$$): Official v2 API
-  ------------------------------------------
-  If you have a Twitter Developer account with Elevated access, set the
-  TWITTER_BEARER_TOKEN secret. We'll use the official filtered stream or
-  recent search endpoint with our keyword queries.
-
-ACCOUNTS TO MONITOR (manually curated alpha accounts):
-These are famous for early alpha drops — follow them in your list.
+Fix dari versi sebelumnya:
+  - URL di-resolve dari Google News redirect → URL artikel asli
+    Sehingga link yang dikirim ke Telegram bisa langsung dibuka
+  - Timeout per URL resolve singkat (3s) agar tidak memperlambat run
 """
 
 import time
@@ -39,145 +18,124 @@ from utils.scorer import score_project
 from utils.dedup import is_new
 
 
-# ─────────────────────────────────────────────
-# Nitter instance list — we rotate if one is down
-# ─────────────────────────────────────────────
-NITTER_INSTANCES = [
-    "https://nitter.privacydev.net",
-    "https://nitter.poast.org",
-    "https://nitter.1d4.us",
-    "https://nitter.kavin.rocks",
+GOOGLE_NEWS_QUERIES = [
+    "crypto airdrop testnet 2025",
+    "incentivized testnet web3",
+    "defi points program rewards",
+    "blockchain ai agent launch",
+    "depin node runner rewards",
+    "crypto bounty program",
+    "web3 early access whitelist",
+    "new layer2 testnet launch",
+    "restaking protocol airdrop",
+    "crypto farming rewards season",
 ]
 
-# Alpha-focused Twitter accounts — their tweets are high-signal
-ALPHA_ACCOUNTS = [
-    "CryptoKoryo",       # DeFi alpha researcher
-    "DegenSpartan",      # OG DeFi trader
-    "0xSisyphus",        # MEV/alpha
-    "route2fi",          # Yield farming strategies
-    "Pentosh1",          # Ecosystem tracking
-    "DefiIgnas",         # DeFi analyst
-    "CroissantEth",      # L2 alpha
-    "Spreekaway",        # Airdrop hunter
-    "mrjasonchoi",       # DeFi research
-    "RyanSAdams",        # Bankless / DeFi commentary
-    "sassal0x",          # Ethereum developer
-]
-
-# Keyword hashtags and search terms to monitor
-SEARCH_TERMS = [
-    "testnet airdrop",
-    "incentivized testnet 2025",
-    "points campaign web3",
-    "early access blockchain",
-    "ai agent defi alpha",
-    "depin node rewards",
-]
+GOOGLE_NEWS_BASE = "https://news.google.com/rss/search"
 
 
-def _try_nitter_feed(url: str) -> list:
-    """Try parsing a Nitter RSS feed, return entries or empty list."""
-    try:
-        feed = feedparser.parse(url)
-        return feed.get("entries", [])
-    except Exception:
-        return []
-
-
-def _get_nitter_rss_url(instance: str, account: str) -> str:
-    """Build the RSS URL for a Nitter user feed."""
-    return f"{instance}/{account}/rss"
-
-
-def _scrape_nitter_accounts() -> list[dict]:
+def _resolve_google_url(redirect_url: str) -> str:
     """
-    For each alpha account, try each Nitter instance until one works.
-    Parse the RSS feed and look for tweets containing reward/farming keywords.
+    Google News RSS memberikan URL berbentuk:
+    https://news.google.com/rss/articles/CBMi...
     
-    We only look at tweets from the last 48 hours to stay fresh.
+    Ini adalah redirect ke artikel asli. Kita follow redirect-nya
+    (tanpa download body) untuk dapat URL final yang bisa diklik.
+    Kalau gagal/timeout, kembalikan URL asli sebagai fallback.
     """
-    items = []
+    try:
+        resp = requests.head(
+            redirect_url,
+            allow_redirects=True,
+            timeout=3,
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        final_url = resp.url
+        # Kalau masih di domain google, coba GET singkat
+        if "google.com" in final_url:
+            resp2 = requests.get(redirect_url, timeout=3, headers={"User-Agent": "Mozilla/5.0"})
+            return resp2.url
+        return final_url
+    except Exception:
+        return redirect_url   # Fallback ke URL redirect
+
+
+def _scrape_google_news_rss() -> list[dict]:
+    items  = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=48)
+    seen_urls = set()  # dedup dalam satu run
 
-    for account in ALPHA_ACCOUNTS:
-        entries = []
+    for query in GOOGLE_NEWS_QUERIES:
+        try:
+            resp = requests.get(
+                GOOGLE_NEWS_BASE,
+                params={"q": query, "hl": "en-US", "gl": "US", "ceid": "US:en"},
+                headers={"User-Agent": "Mozilla/5.0 (compatible; AlphaScraper/1.0)"},
+                timeout=15,
+            )
+            resp.raise_for_status()
+            feed    = feedparser.parse(resp.text)
+            entries = feed.get("entries", [])
+            print(f"[Twitter/GNews] ↳ {len(entries)} results: {query!r}")
 
-        # Try each Nitter instance
-        for instance in NITTER_INSTANCES:
-            url = _get_nitter_rss_url(instance, account)
-            entries = _try_nitter_feed(url)
-            if entries:
-                print(f"[Twitter/Nitter] ✅ {account} via {instance} ({len(entries)} tweets)")
-                break
+            for entry in entries[:8]:
+                raw_url = entry.get("link", "")
+                title   = entry.get("title", "")
+                summary = entry.get("summary", "") or ""
 
-        if not entries:
-            print(f"[Twitter/Nitter] ⚠️  Could not fetch @{account} — all instances failed")
-            continue
+                # Dedup berdasarkan title (lebih stable dari URL redirect)
+                title_key = title.lower().strip()[:80]
+                if title_key in seen_urls:
+                    continue
+                seen_urls.add(title_key)
 
-        for entry in entries:
-            title   = entry.get("title", "")
-            content = entry.get("summary", "") or title
-            text    = f"{title} {content}".lower()
+                # Parse tanggal
+                pub_dt = None
+                if entry.get("published_parsed"):
+                    try:
+                        pub_dt = datetime(*entry["published_parsed"][:6], tzinfo=timezone.utc)
+                    except Exception:
+                        pass
 
-            # Only care about tweets with reward/farming keywords
-            if not any(kw in text for kw in HIGH_VALUE_KEYWORDS):
-                continue
+                if pub_dt and pub_dt < cutoff:
+                    continue
 
-            # Check recency
-            pub_parsed = entry.get("published_parsed")
-            pub_dt = None
-            if pub_parsed:
-                try:
-                    pub_dt = datetime(*pub_parsed[:6], tzinfo=timezone.utc)
-                except (ValueError, TypeError):
-                    pass
+                # Resolve URL redirect → URL artikel asli
+                final_url = _resolve_google_url(raw_url) if raw_url else raw_url
 
-            if pub_dt and pub_dt < cutoff:
-                continue
+                items.append({
+                    "id":           f"gnews_{hash(title_key) & 0xFFFFFFFF}",
+                    "title":        title,
+                    "description":  summary[:400],
+                    "url":          final_url,
+                    "source":       "twitter",
+                    "published_at": pub_dt or datetime.now(timezone.utc),
+                    "stars":        0,
+                    "forks":        0,
+                    "tags":         ["alpha", "web3"],
+                })
 
-            link = entry.get("link", "")
-            items.append({
-                "id":          f"twitter_{hash(link) & 0xFFFFFFFF}",
-                "title":       f"@{account}: {title[:100]}",
-                "description": content[:400],
-                "url":         link,
-                "source":      "twitter",
-                "published_at": pub_dt or datetime.now(timezone.utc),
-                "stars":       0,
-                "forks":       0,
-                "tags":        ["twitter", "alpha"],
-            })
+        except Exception as e:
+            print(f"[Twitter/GNews] Error {query!r}: {e}")
 
-        time.sleep(0.5)  # Be polite to Nitter instances
+        time.sleep(1)
 
     return items
 
 
-# ─────────────────────────────────────────────
-# APPROACH C: Official Twitter API v2
-# Only runs if TWITTER_BEARER_TOKEN is set
-# ─────────────────────────────────────────────
-
 def _scrape_twitter_api_v2() -> list[dict]:
-    """
-    Use the official Twitter v2 Recent Search endpoint to find tweets
-    matching our keyword queries from the last 7 days.
-    
-    Requires a bearer token from Twitter Developer Portal.
-    Free tier allows 500k tweets/month — more than enough for our use.
-    """
     if not TWITTER_BEARER_TOKEN:
         return []
 
-    headers = {"Authorization": f"Bearer {TWITTER_BEARER_TOKEN}"}
+    headers  = {"Authorization": f"Bearer {TWITTER_BEARER_TOKEN}"}
     base_url = "https://api.twitter.com/2/tweets/search/recent"
-    items = []
+    items    = []
 
-    # Build a query that targets high-signal tweets
     query = (
-        "(testnet OR airdrop OR incentivized OR \"points campaign\" OR \"early access\") "
-        "(web3 OR defi OR blockchain OR \"ai agent\") "
-        "-is:retweet lang:en"
+        '(testnet OR airdrop OR incentivized OR "points campaign" '
+        'OR "bounty program" OR "early access" OR "node rewards") '
+        '(web3 OR defi OR blockchain OR "ai agent" OR depin) '
+        '-is:retweet lang:en'
     )
 
     try:
@@ -185,24 +143,22 @@ def _scrape_twitter_api_v2() -> list[dict]:
             base_url,
             headers=headers,
             params={
-                "query": query,
-                "max_results": 50,
-                "tweet.fields": "created_at,author_id,public_metrics,entities",
-                "expansions": "author_id",
-                "user.fields": "username",
+                "query":        query,
+                "max_results":  100,
+                "tweet.fields": "created_at,author_id,public_metrics",
+                "expansions":   "author_id",
+                "user.fields":  "username",
             },
             timeout=15,
         )
         resp.raise_for_status()
-        data = resp.json()
-
-        # Build a map of user_id → username
+        data  = resp.json()
         users = {u["id"]: u["username"] for u in data.get("includes", {}).get("users", [])}
 
         for tweet in data.get("data", []):
-            author = users.get(tweet.get("author_id", ""), "unknown")
-            text   = tweet.get("text", "")
-            tid    = tweet.get("id", "")
+            author  = users.get(tweet.get("author_id", ""), "unknown")
+            text    = tweet.get("text", "")
+            tid     = tweet.get("id", "")
             created = tweet.get("created_at", "")
 
             pub_dt = None
@@ -212,17 +168,20 @@ def _scrape_twitter_api_v2() -> list[dict]:
                 except ValueError:
                     pass
 
+            metrics = tweet.get("public_metrics", {})
             items.append({
-                "id":          f"twitter_api_{tid}",
-                "title":       f"@{author}: {text[:100]}",
-                "description": text[:500],
-                "url":         f"https://twitter.com/{author}/status/{tid}",
-                "source":      "twitter",
+                "id":           f"twitter_api_{tid}",
+                "title":        f"@{author}: {text[:100]}",
+                "description":  text[:500],
+                "url":          f"https://x.com/{author}/status/{tid}",
+                "source":       "twitter",
                 "published_at": pub_dt,
-                "stars":       tweet.get("public_metrics", {}).get("like_count", 0),
-                "forks":       tweet.get("public_metrics", {}).get("retweet_count", 0),
-                "tags":        ["twitter"],
+                "stars":        metrics.get("like_count", 0),
+                "forks":        metrics.get("retweet_count", 0),
+                "tags":         ["twitter", "alpha"],
             })
+
+        print(f"[Twitter API] ✅ {len(items)} tweets fetched")
 
     except requests.RequestException as e:
         print(f"[Twitter API] Error: {e}")
@@ -231,34 +190,29 @@ def _scrape_twitter_api_v2() -> list[dict]:
 
 
 def scrape() -> list[dict]:
-    """
-    Run Twitter scraping via the best available method.
-    API v2 is used if a bearer token is configured; otherwise Nitter RSS.
-    """
-    print("[Twitter] 🔍 Scraping Twitter/X...")
+    print("[Twitter] 🔍 Scraping Twitter alpha signals...")
 
     if TWITTER_BEARER_TOKEN:
-        print("[Twitter] Using official API v2...")
+        print("[Twitter] → Mode: Official API v2")
         raw = _scrape_twitter_api_v2()
     else:
-        print("[Twitter] Using Nitter RSS (no API key configured)...")
-        raw = _scrape_nitter_accounts()
+        print("[Twitter] → Mode: Google News RSS")
+        raw = _scrape_google_news_rss()
 
     results = []
     for project in raw:
         if not is_new(project["id"]):
             continue
-
         score = score_project(
             title=project["title"],
             description=project["description"],
             source="twitter",
             published_at=project["published_at"],
-            stars=project["stars"],
+            stars=project.get("stars", 0),
         )
         project["score"] = score
         results.append(project)
-        print(f"[Twitter] ✅ {project['title'][:60]}... — {score['total']}")
+        print(f"[Twitter] ✅ {project['title'][:70]}... — {score['total']}")
 
     print(f"[Twitter] Done — {len(results)} new items found")
     return results
