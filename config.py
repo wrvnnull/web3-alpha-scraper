@@ -33,10 +33,43 @@ MIN_SCORE_TO_NOTIFY = 30   # out of 100
 # Higher-weight = more likely to be early alpha with rewards
 # ─────────────────────────────────────────────
 HIGH_VALUE_KEYWORDS = [
-    "airdrop", "testnet", "incentivized", "points", "rewards",
-    "early access", "alpha", "beta", "whitelist", "waitlist",
-    "season", "campaign", "genesis", "og", "pioneer",
-    "node runner", "validator", "grant", "bounty",
+    # Sangat spesifik → hampir tidak mungkin false positive di berita market biasa
+    "airdrop",
+    "testnet incentivized",
+    "incentivized testnet",
+    "incentivized node",
+    "points program",
+    "points campaign",
+    "points system",
+    "rewards program",
+    "earn rewards",
+    "early access",
+    "whitelist",
+    "waitlist",
+    "genesis mint",
+    "genesis nft",
+    "node runner",
+    "node rewards",
+    "validator rewards",
+    "grant program",
+    "bounty program",
+    "retroactive airdrop",
+    "retroactive reward",
+    "token launch",
+    "tge",                  # Token Generation Event
+    "beta testnet",
+    "public testnet",
+    "pioneer program",
+    "og pass",
+    "early contributor",
+    "farming rewards",
+    "liquidity mining",
+    "yield farming",
+    # Kata tunggal yang cukup spesifik dalam konteks Web3 farming
+    "airdropped",
+    "testnet",
+    "bounty",
+    "whitelist",
 ]
 
 WEB3_KEYWORDS = [
